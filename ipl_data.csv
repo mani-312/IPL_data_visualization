@@ -1,0 +1,813 @@
+,Year,Match_Number,Time,Stadium,Team1,Team1_score,Team1_Overs_Played,Team2,Team2_score,Team2_Overs_Played,Win_team
+0,2008,Final,20:00,"DY Patil Stadium, Navi Mumbai",Chennai Super Kings,163/5,20/20,Rajasthan Royals,164/7,20/20,Rajasthan Royals
+1,2008,2nd Semi-Final,20:00,"Wankhede Stadium, Mumbai",Chennai Super Kings,116/1,14.5/20,Punjab Kings,112/8,20/20,Chennai Super Kings
+2,2008,1st Semi-Final,20:00,"Wankhede Stadium, Mumbai",Delhi Capitals,87,16.1/20,Rajasthan Royals,192/9,20/20,Rajasthan Royals
+3,2008,Match 56,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,221/3,20/20,Rajasthan Royals,180/7,20/20,Punjab Kings
+4,2008,Match 55,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,122/9,18/20,Mumbai Indians,126/1,16/20,Mumbai Indians
+5,2008,Match 54,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,147/8,20/20,Chennai Super Kings,148/3,19.2/20,Chennai Super Kings
+6,2008,Match 53,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,146/5,20/20,Mumbai Indians,145/7,20/20,Rajasthan Royals
+7,2008,Match 52,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,175/7,19.4/20,Punjab Kings,174/6,20/20,Kolkata Knight Riders
+8,2008,Match 51,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,165,20/20,Royal Challengers Bangalore,171/5,19/20,Royal Challengers Bangalore
+9,2008,Match 50,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,179/5,19.5/20,Mumbai Indians,176/8,20/20,Delhi Capitals
+10,2008,Match 49,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,201/7,20/20,Rajasthan Royals,211/5,20/20,Rajasthan Royals
+11,2008,Match 48,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,178/4,19.3/20,Deccan Chargers,175/4,20/20,Punjab Kings
+12,2008,Match 46,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,112/8,20/20,Royal Challengers Bangalore,126/8,20/20,Royal Challengers Bangalore
+13,2008,Match 45,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,188,20/20,Punjab Kings,189/4,20/20,Punjab Kings
+14,2008,Match 44,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,147/8,20/20,Rajasthan Royals,150/4,16.3/20,Rajasthan Royals
+15,2008,Match 43,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,154/7,20/20,Delhi Capitals,158/5,18.2/20,Delhi Capitals
+16,2008,Match 42,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,153/7,20/20,Mumbai Indians,178/7,20/20,Mumbai Indians
+17,2008,Match 41,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,52/5,8/20,Chennai Super Kings,55/0,8/8,Chennai Super Kings
+18,2008,Match 40,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,88/4,8/20,Punjab Kings,94/3,8/8,Punjab Kings
+19,2008,Match 39,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,197/1,20/20,Royal Challengers Bangalore,132/9,20/20,Rajasthan Royals
+20,2008,Match 38,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,68/2,3/20,Kolkata Knight Riders,67,15.2/20,Mumbai Indians
+21,2008,Match 37,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,194/4,20/20,Deccan Chargers,182/9,20/20,Delhi Capitals
+22,2008,Match 36,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,158/1,13.5/20,Chennai Super Kings,156/6,20/20,Mumbai Indians
+23,2008,Match 35,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,133/6,20/20,Delhi Capitals,110,17.5/20,Kolkata Knight Riders
+24,2008,Match 34,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,144/1,15.4/20,Royal Challengers Bangalore,143/8,20/20,Punjab Kings
+25,2008,Match 33,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,159/7,19.1/20,Delhi Capitals,156/7,20/20,Rajasthan Royals
+26,2008,Match 32,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,181/7,20/20,Kolkata Knight Riders,204/4,20/20,Kolkata Knight Riders
+27,2008,Match 31,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,181/4,20/20,Punjab Kings,163/9,20/20,Chennai Super Kings
+28,2008,Match 30,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,141/2,16/20,Deccan Chargers,140/8,20/20,Rajasthan Royals
+29,2008,Match 29,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,129/7,16/20,Royal Challengers Bangalore,124/4,16/20,Kolkata Knight Riders
+30,2008,Match 28,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,187/5,20/20,Chennai Super Kings,188/6,20/20,Chennai Super Kings
+31,2008,Match 27,20:00,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,104/3,15.1/20,Rajasthan Royals,103,16.2/20,Mumbai Indians
+32,2008,Match 26,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,144/7,20/20,Deccan Chargers,148/3,18/20,Deccan Chargers
+33,2008,Match 25,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,126,19.2/20,Punjab Kings,127/4,18.2/20,Punjab Kings
+34,2008,Match 24,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,110/2,14.2/20,Chennai Super Kings,109,19/20,Rajasthan Royals
+35,2008,Match 23,16:00,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,162/8,20/20,Delhi Capitals,133,18.5/20,Mumbai Indians
+36,2008,Match 22,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,178/6,20/20,Kolkata Knight Riders,169/6,20/20,Punjab Kings
+37,2008,Match 21,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,156/8,20/20,Deccan Chargers,153/6,20/20,Royal Challengers Bangalore
+38,2008,Match 20,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,169/6,20/20,Delhi Capitals,172/2,19/20,Delhi Capitals
+39,2008,Match 19,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,164/8,20/20,Punjab Kings,167/3,18.5/20,Punjab Kings
+40,2008,Match 18,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,196/7,20/20,Kolkata Knight Riders,151,19.1/20,Rajasthan Royals
+41,2008,Match 17,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,191/5,20/20,Royal Challengers Bangalore,181/5,20/20,Delhi Capitals
+42,2008,Match 16,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,137/8,20/20,Mumbai Indians,138/3,18.4/20,Mumbai Indians
+43,2008,Match 15,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,165,19.4/20,Chennai Super Kings,178/5,20/20,Chennai Super Kings
+44,2008,Match 14,20:00,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,154/7,20/20,Deccan Chargers,155/0,12/20,Deccan Chargers
+45,2008,Match 13,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,162/6,19.3/20,Delhi Capitals,158/8,20/20,Punjab Kings
+46,2008,Match 12,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,135/8,20/20,Rajasthan Royals,138/3,17.1/20,Rajasthan Royals
+47,2008,Match 11,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,152/1,17/20,Kolkata Knight Riders,147/9,20/20,Chennai Super Kings
+48,2008,Match 10,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,182,20/20,Mumbai Indians,116/9,20/20,Punjab Kings
+49,2008,Match 9,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,214/5,20/20,Rajasthan Royals,217/7,19.5/20,Rajasthan Royals
+50,2008,Match 8,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,208/5,20/20,Mumbai Indians,202/7,20/20,Chennai Super Kings
+51,2008,Match 7,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,142/8,20/20,Delhi Capitals,143/1,13/20,Delhi Capitals
+52,2008,Match 6,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,168/4,18.1/20,Punjab Kings,166/8,20/20,Rajasthan Royals
+53,2008,Match 5,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,165/6,20/20,Royal Challengers Bangalore,166/5,19.4/20,Royal Challengers Bangalore
+54,2008,Match 4,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,112/5,19/20,Deccan Chargers,110,18.4/20,Kolkata Knight Riders
+55,2008,Match 3,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,132/1,15.1/20,Rajasthan Royals,129/8,20/20,Delhi Capitals
+56,2008,Match 2,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,207/4,20/20,Chennai Super Kings,240/5,20/20,Chennai Super Kings
+57,2008,Match 1,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,82,15.1/20,Kolkata Knight Riders,222/3,20/20,Kolkata Knight Riders
+58,2009,Final,20:00,"New Wanderers Stadium, Johannesburg",Royal Challengers Bangalore,137/9,20/20,Deccan Chargers,143/6,20/20,Deccan Chargers
+59,2009,2nd Semi-Final,20:00,"New Wanderers Stadium, Johannesburg",Royal Challengers Bangalore,149/4,18.5/20,Chennai Super Kings,146/5,20/20,Royal Challengers Bangalore
+60,2009,1st Semi-Final,20:00,"Supersport Park, Centurion",Delhi Capitals,153/8,20/20,Deccan Chargers,154/4,17.4/20,Deccan Chargers
+61,2009,Match 56,20:00,"Supersport Park, Centurion",Royal Challengers Bangalore,170/4,20/20,Deccan Chargers,158/6,20/20,Royal Challengers Bangalore
+62,2009,Match 55,16:00,"Supersport Park, Centurion",Delhi Capitals,166/6,17.3/20,Mumbai Indians,165/8,20/20,Delhi Capitals
+63,2009,Match 54,20:00,"Kingsmead, Durban",Chennai Super Kings,116/9,20/20,Punjab Kings,92/8,20/20,Chennai Super Kings
+64,2009,Match 53,16:00,"Kingsmead, Durban",Kolkata Knight Riders,102/6,19.3/20,Rajasthan Royals,101/9,20/20,Kolkata Knight Riders
+65,2009,Match 52,20:00,"New Wanderers Stadium, Johannesburg",Royal Challengers Bangalore,135/3,19/20,Delhi Capitals,134/7,20/20,Royal Challengers Bangalore
+66,2009,Match 51,20:00,"Supersport Park, Centurion",Chennai Super Kings,188/3,20/20,Kolkata Knight Riders,189/3,20/20,Kolkata Knight Riders
+67,2009,Match 50,20:00,"OUTsurance Oval, Bloemfontein",Delhi Capitals,150/3,20/20,Rajasthan Royals,136/9,20/20,Delhi Capitals
+68,2009,Match 49,16:00,"New Wanderers Stadium, Johannesburg",Deccan Chargers,133/8,20/20,Punjab Kings,134/7,20/20,Punjab Kings
+69,2009,Match 48,20:00,"New Wanderers Stadium, Johannesburg",Deccan Chargers,166/4,20/20,Kolkata Knight Riders,160/5,20/20,Deccan Chargers
+70,2009,Match 47,16:00,"St George's Park, Port Elizabeth",Chennai Super Kings,151/3,19.1/20,Mumbai Indians,147/5,20/20,Chennai Super Kings
+71,2009,Match 46,20:00,"OUTsurance Oval, Bloemfontein",Delhi Capitals,120/9,20/20,Punjab Kings,123/4,19.1/20,Punjab Kings
+72,2009,Match 45,20:00,"Kingsmead, Durban",Mumbai Indians,143,19.5/20,Rajasthan Royals,145/7,20/20,Rajasthan Royals
+73,2009,Match 44,16:00,"Kingsmead, Durban",Royal Challengers Bangalore,132/8,19.4/20,Chennai Super Kings,129,19.4/20,Royal Challengers Bangalore
+74,2009,Match 43,20:00,"Kingsmead, Durban",Deccan Chargers,161,19.4/20,Delhi Capitals,173/7,20/20,Delhi Capitals
+75,2009,Match 42,20:00,"Supersport Park, Centurion",Punjab Kings,119/9,20/20,Mumbai Indians,122/2,16.2/20,Mumbai Indians
+76,2009,Match 41,16:00,"Supersport Park, Centurion",Royal Challengers Bangalore,176/4,19.2/20,Kolkata Knight Riders,173/4,20/20,Royal Challengers Bangalore
+77,2009,Match 40,20:00,"De Beers Diamond Oval, Kimberley",Deccan Chargers,166/7,20/20,Rajasthan Royals,113,19.3/20,Deccan Chargers
+78,2009,Match 39,20:00,"New Wanderers Stadium, Johannesburg",Delhi Capitals,125/3,17.1/20,Kolkata Knight Riders,123/8,20/20,Delhi Capitals
+79,2009,Match 38,16:00,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,141/7,20/20,Mumbai Indians,157/2,20/20,Mumbai Indians
+80,2009,Match 37,20:00,"De Beers Diamond Oval, Kimberley",Chennai Super Kings,141/3,18.2/20,Rajasthan Royals,140/7,20/20,Chennai Super Kings
+81,2009,Match 36,16:00,"De Beers Diamond Oval, Kimberley",Deccan Chargers,168/5,20/20,Punjab Kings,169/7,19.5/20,Punjab Kings
+82,2009,Match 35,20:00,"Buffalo Park, East London",Delhi Capitals,118/3,18.5/20,Mumbai Indians,116,20/20,Delhi Capitals
+83,2009,Match 34,20:00,"Supersport Park, Centurion",Chennai Super Kings,186/3,18/18,Punjab Kings,174/3,18/18,Chennai Super Kings
+84,2009,Match 33,16:00,"Supersport Park, Centurion",Royal Challengers Bangalore,105,20/20,Rajasthan Royals,107/3,15/20,Rajasthan Royals
+85,2009,Match 32,20:00,"Supersport Park, Centurion",Deccan Chargers,145/6,20/20,Mumbai Indians,126/8,20/20,Deccan Chargers
+86,2009,Match 31,20:00,"Kingsmead, Durban",Delhi Capitals,157/1,19/20,Kolkata Knight Riders,154/3,20/20,Delhi Capitals
+87,2009,Match 30,16:00,"Kingsmead, Durban",Punjab Kings,133/8,20/20,Rajasthan Royals,211/4,20/20,Rajasthan Royals
+88,2009,Match 29,20:00,"Buffalo Park, East London",Chennai Super Kings,178/3,20/20,Deccan Chargers,100,14.4/20,Chennai Super Kings
+89,2009,Match 28,20:00,"New Wanderers Stadium, Johannesburg",Royal Challengers Bangalore,150/1,18.1/20,Mumbai Indians,149/4,20/20,Royal Challengers Bangalore
+90,2009,Match 27,16:00,"St George's Park, Port Elizabeth",Punjab Kings,154/4,20/20,Kolkata Knight Riders,153/3,20/20,Punjab Kings
+91,2009,Match 26,20:00,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,163,20/20,Delhi Capitals,145/8,20/20,Chennai Super Kings
+92,2009,Match 25,16:00,"St George's Park, Port Elizabeth",Deccan Chargers,141/5,20/20,Rajasthan Royals,142/7,19.4/20,Rajasthan Royals
+93,2009,Match 24,20:00,"Kingsmead, Durban",Royal Challengers Bangalore,145/9,20/20,Punjab Kings,137/7,20/20,Royal Challengers Bangalore
+94,2009,Match 23,16:00,"Buffalo Park, East London",Kolkata Knight Riders,139/6,20/20,Mumbai Indians,148/6,20/20,Mumbai Indians
+95,2009,Match 22,20:00,"Supersport Park, Centurion",Chennai Super Kings,164/5,20/20,Rajasthan Royals,126,19.3/20,Chennai Super Kings
+96,2009,Match 21,16:00,"Supersport Park, Centurion",Deccan Chargers,148/9,20/20,Delhi Capitals,150/4,18.4/20,Delhi Capitals
+97,2009,Match 20,20:00,"Kingsmead, Durban",Punjab Kings,119/8,20/20,Mumbai Indians,116/7,20/20,Punjab Kings
+98,2009,Match 19,16:00,"Kingsmead, Durban",Royal Challengers Bangalore,143/5,19.5/20,Kolkata Knight Riders,139/6,20/20,Royal Challengers Bangalore
+99,2009,Match 18,20:00,"Supersport Park, Centurion",Delhi Capitals,143/7,20/20,Rajasthan Royals,147/5,18.3/20,Rajasthan Royals
+100,2009,Match 17,20:00,"St George's Park, Port Elizabeth",Kolkata Knight Riders,95,15.2/20,Mumbai Indians,187/6,20/20,Mumbai Indians
+101,2009,Match 16,16:00,"Kingsmead, Durban",Chennai Super Kings,165/6,20/20,Deccan Chargers,169/4,19.3/20,Deccan Chargers
+102,2009,Match 15,20:00,"Newlands, Cape Town",Punjab Kings,139/6,20/20,Rajasthan Royals,112/7,20/20,Punjab Kings
+103,2009,Match 14,16:00,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,149/7,20/20,Delhi Capitals,150/4,19.2/20,Delhi Capitals
+104,2009,Match 12,16:00,"Kingsmead, Durban",Deccan Chargers,168/9,20/20,Mumbai Indians,156/7,20/20,Deccan Chargers
+105,2009,Match 11,20:00,"Kingsmead, Durban",Royal Challengers Bangalore,168/9,20/20,Punjab Kings,173/3,19/20,Punjab Kings
+106,2009,Match 10,20:00,"Newlands, Cape Town",Kolkata Knight Riders,150/8,20/20,Rajasthan Royals,150/6,20/20,Rajasthan Royals
+107,2009,Match 9,16:00,"Kingsmead, Durban",Chennai Super Kings,180/9,20/20,Delhi Capitals,189/5,20/20,Delhi Capitals
+108,2009,Match 8,20:00,"Newlands, Cape Town",Royal Challengers Bangalore,160/8,20/20,Deccan Chargers,184/6,20/20,Deccan Chargers
+109,2009,Match 6,16:00,"Kingsmead, Durban",Punjab Kings,68/6,2/20,Kolkata Knight Riders,79/1,2/9,Kolkata Knight Riders
+110,2009,Match 5,20:00,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,87,15.2/20,Chennai Super Kings,179/5,20/20,Chennai Super Kings
+111,2009,Match 4,20:00,"Newlands, Cape Town",Deccan Chargers,104/2,13.1/20,Kolkata Knight Riders,101,19.4/20,Deccan Chargers
+112,2009,Match 3,16:00,"Newlands, Cape Town",Delhi Capitals,58/0,5/6,Punjab Kings,53/7,6/12,Delhi Capitals
+113,2009,Match 2,20:00,"Newlands, Cape Town",Royal Challengers Bangalore,133/8,20/20,Rajasthan Royals,58,15.1/20,Royal Challengers Bangalore
+114,2009,Match 1,16:00,"Newlands, Cape Town",Chennai Super Kings,146/7,20/20,Mumbai Indians,165/7,20/20,Mumbai Indians
+115,2010,Final,20:00,"DY Patil Stadium, Navi Mumbai",Chennai Super Kings,168/5,20/20,Mumbai Indians,146/9,20/20,Chennai Super Kings
+116,2010,3rd Place Play-off,20:00,"DY Patil Stadium, Navi Mumbai",Royal Challengers Bangalore,86/1,13.5/20,Deccan Chargers,82,18.3/20,Royal Challengers Bangalore
+117,2010,2nd Semi-Final,20:00,"DY Patil Stadium, Navi Mumbai",Chennai Super Kings,142/7,20/20,Deccan Chargers,104,19.2/20,Chennai Super Kings
+118,2010,1st Semi-Final,20:00,"DY Patil Stadium, Navi Mumbai",Royal Challengers Bangalore,149/9,20/20,Mumbai Indians,184/5,20/20,Mumbai Indians
+119,2010,Match 56,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,135/1,17.3/20,Mumbai Indians,133/8,20/20,Kolkata Knight Riders
+120,2010,Match 55,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,134/7,20/20,Deccan Chargers,145/7,20/20,Deccan Chargers
+121,2010,Match 54,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,192/3,20/20,Chennai Super Kings,195/4,19.4/20,Chennai Super Kings
+122,2010,Match 53,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,133/2,16.1/20,Rajasthan Royals,132/9,20/20,Kolkata Knight Riders
+123,2010,Match 52,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,134/9,20/20,Mumbai Indians,191/4,20/20,Mumbai Indians
+124,2010,Match 51,20:00,"HPCA Stadium, Dharamsala",Punjab Kings,174/3,20/20,Deccan Chargers,178/5,19.1/20,Deccan Chargers
+125,2010,Match 50,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,112/9,20/20,Delhi Capitals,113/4,18.4/20,Delhi Capitals
+126,2010,Match 49,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,130/6,20/20,Royal Challengers Bangalore,132/5,15.4/20,Royal Challengers Bangalore
+127,2010,Match 48,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,143/1,13.3/20,Kolkata Knight Riders,139/8,20/20,Chennai Super Kings
+128,2010,Match 47,16:00,"Brabourne Stadium, Mumbai",Mumbai Indians,183/4,20/20,Delhi Capitals,144/7,20/20,Mumbai Indians
+129,2010,Match 46,20:00,"Vidarbha Cricket Association Stadium, Nagpur",Deccan Chargers,151/6,20/20,Royal Challengers Bangalore,138,19.4/20,Deccan Chargers
+130,2010,Match 45,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,137/8,20/20,Mumbai Indians,174/5,20/20,Mumbai Indians
+131,2010,Match 44,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,111,19.4/20,Punjab Kings,112/3,18.4/20,Punjab Kings
+132,2010,Match 43,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,162/3,17.1/20,Kolkata Knight Riders,160/9,20/20,Royal Challengers Bangalore
+133,2010,Match 42,16:00,"Vidarbha Cricket Association Stadium, Nagpur",Deccan Chargers,139/4,19.1/20,Chennai Super Kings,138/8,20/20,Deccan Chargers
+134,2010,Match 41,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,158/4,19.2/20,Mumbai Indians,154/9,20/20,Punjab Kings
+135,2010,Match 40,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,184/6,20/20,Deccan Chargers,186/3,19.2/20,Deccan Chargers
+136,2010,Match 39,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,181/3,20/20,Delhi Capitals,167/8,20/20,Kolkata Knight Riders
+137,2010,Match 38,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,157/1,15/20,Punjab Kings,153/6,20/20,Rajasthan Royals
+138,2010,Match 37,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,165/4,20/20,Mumbai Indians,141/9,20/20,Chennai Super Kings
+139,2010,Match 36,20:00,"Vidarbha Cricket Association Stadium, Nagpur",Deccan Chargers,157,19.5/20,Rajasthan Royals,159,19.5/20,Rajasthan Royals
+140,2010,Match 35,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,184/5,20/20,Royal Challengers Bangalore,147/9,20/20,Delhi Capitals
+141,2010,Match 34,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,200/3,20/20,Punjab Kings,204/2,18.2/20,Punjab Kings
+142,2010,Match 33,20:00,"Brabourne Stadium, Mumbai",Mumbai Indians,178/5,20/20,Deccan Chargers,115,18.2/20,Mumbai Indians
+143,2010,Match 32,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,246/5,20/20,Rajasthan Royals,223/5,20/20,Chennai Super Kings
+144,2010,Match 31,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,181/5,20/20,Royal Challengers Bangalore,184/4,19.1/20,Royal Challengers Bangalore
+145,2010,Match 30,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,181/6,20/20,Deccan Chargers,157/5,20/20,Kolkata Knight Riders
+146,2010,Match 29,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,188/6,20/20,Rajasthan Royals,121,17.4/20,Delhi Capitals
+147,2010,Match 28,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,162/5,18.5/20,Royal Challengers Bangalore,161/4,20/20,Chennai Super Kings
+148,2010,Match 27,20:00,"Brabourne Stadium, Mumbai",Mumbai Indians,164/6,19.3/20,Punjab Kings,163,20/20,Mumbai Indians
+149,2010,Match 26,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,177/4,20/20,Kolkata Knight Riders,137/9,20/20,Delhi Capitals
+150,2010,Match 25,20:00,"DY Patil Stadium, Navi Mumbai",Deccan Chargers,131,17.4/20,Mumbai Indians,172/7,20/20,Mumbai Indians
+151,2010,Match 24,16:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,177/8,20/20,Chennai Super Kings,160/6,20/20,Rajasthan Royals
+152,2010,Match 23,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,144/6,20/20,Kolkata Knight Riders,183/5,20/20,Kolkata Knight Riders
+153,2010,Match 22,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,151/2,15.4/20,Deccan Chargers,148/9,20/20,Rajasthan Royals
+154,2010,Match 21,20:00,"Brabourne Stadium, Mumbai",Mumbai Indians,181/5,19/20,Chennai Super Kings,180/2,20/20,Mumbai Indians
+155,2010,Match 20,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,166/9,20/20,Delhi Capitals,183/4,20/20,Delhi Capitals
+156,2010,Match 19,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,152,19.1/20,Rajasthan Royals,183/5,20/20,Rajasthan Royals
+157,2010,Match 18,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,171/5,20/20,Chennai Super Kings,135/7,20/20,Royal Challengers Bangalore
+158,2010,Match 17,20:00,"Brabourne Stadium, Mumbai",Mumbai Indians,156/3,18.3/20,Kolkata Knight Riders,155/3,20/20,Mumbai Indians
+159,2010,Match 16,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,136/7,20/20,Punjab Kings,136/8,20/20,Punjab Kings
+160,2010,Match 15,16:00,"Barabati Stadium, Cuttack",Deccan Chargers,171/6,20/20,Delhi Capitals,161/9,20/20,Deccan Chargers
+161,2010,Match 14,20:00,"Brabourne Stadium, Mumbai",Mumbai Indians,151/9,20/20,Royal Challengers Bangalore,155/3,19.1/20,Royal Challengers Bangalore
+162,2010,Match 13,16:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,168/7,20/20,Kolkata Knight Riders,134/5,20/20,Rajasthan Royals
+163,2010,Match 12,20:00,"Barabati Stadium, Cuttack",Deccan Chargers,170/7,20/20,Punjab Kings,164/8,20/20,Deccan Chargers
+164,2010,Match 11,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,185/6,20/20,Chennai Super Kings,190/5,19.1/20,Chennai Super Kings
+165,2010,Match 10,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,93/0,10.4/20,Rajasthan Royals,92,19.5/20,Royal Challengers Bangalore
+166,2010,Match 9,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,120,16.3/20,Mumbai Indians,218/7,20/20,Mumbai Indians
+167,2010,Match 8,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,109,19.2/20,Chennai Super Kings,164/3,20/20,Chennai Super Kings
+168,2010,Match 7,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,204/2,18.5/20,Punjab Kings,203/3,20/20,Royal Challengers Bangalore
+169,2010,Match 6,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,141/6,20/20,Delhi Capitals,142/4,17.1/20,Delhi Capitals
+170,2010,Match 5,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,159/9,20/20,Deccan Chargers,190/4,20/20,Deccan Chargers
+171,2010,Match 4,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,136/3,19.2/20,Royal Challengers Bangalore,135/7,20/20,Kolkata Knight Riders
+172,2010,Match 3,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,142/9,20/20,Delhi Capitals,146/5,19.5/20,Delhi Capitals
+173,2010,Match 2,16:00,"Brabourne Stadium, Mumbai",Mumbai Indians,212/6,20/20,Rajasthan Royals,208/7,20/20,Mumbai Indians
+174,2010,Match 1,20:00,"DY Patil Stadium, Navi Mumbai",Deccan Chargers,150/7,20/20,Kolkata Knight Riders,161/4,20/20,Kolkata Knight Riders
+175,2011,Final,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,205/5,20/20,Royal Challengers Bangalore,147/8,20/20,Chennai Super Kings
+176,2011,Qualifier 2,20:00,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,185/4,20/20,Mumbai Indians,142/8,20/20,Royal Challengers Bangalore
+177,2011,Eliminator,20:00,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,147/7,20/20,Mumbai Indians,148/6,19.2/20,Mumbai Indians
+178,2011,Qualifier 1,20:00,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,175/4,20/20,Chennai Super Kings,177/4,19.4/20,Chennai Super Kings
+179,2011,Match 70,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,175/7,20/20,Mumbai Indians,178/5,20/20,Mumbai Indians
+180,2011,Match 69,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,129/2,18/20,Chennai Super Kings,128/8,20/20,Royal Challengers Bangalore
+181,2011,Match 67,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,116,19/20,Deccan Chargers,198/2,20/20,Deccan Chargers
+182,2011,Match 66,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,133/5,20/20,Rajasthan Royals,134/0,13.1/20,Rajasthan Royals
+183,2011,Match 65,20:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,118/7,20/20,Kolkata Knight Riders,119/3,16.4/20,Kolkata Knight Riders
+184,2011,Match 64,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,152/5,20/20,Kochi Tuskers Kerala,141/5,20/20,Chennai Super Kings
+185,2011,Match 63,20:00,"HPCA Stadium, Dharamsala",Punjab Kings,232/2,20/20,Royal Challengers Bangalore,121,17/20,Punjab Kings
+186,2011,Match 62,20:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,136/9,20/20,Deccan Chargers,138/4,19.2/20,Deccan Chargers
+187,2011,Match 61,20:00,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala,98/2,2/20,Rajasthan Royals,97,18.3/20,Kochi Tuskers Kerala
+188,2011,Match 60,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,170/6,20/20,Delhi Capitals,141/8,20/20,Punjab Kings
+189,2011,Match 59,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,125/8,20/20,Deccan Chargers,135/6,20/20,Deccan Chargers
+190,2011,Match 58,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,105/6,12.3/13,Kolkata Knight Riders,101/4,13/13,Royal Challengers Bangalore
+191,2011,Match 57,20:00,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala,178/7,20/20,Punjab Kings,181/4,18.5/20,Punjab Kings
+192,2011,Match 56,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,176/4,20/20,Delhi Capitals,158/6,20/20,Chennai Super Kings
+193,2011,Match 55,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,146/6,20/20,Royal Challengers Bangalore,151/1,17/20,Royal Challengers Bangalore
+194,2011,Match 54,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,163/8,20/20,Mumbai Indians,87,12.5/20,Punjab Kings
+195,2011,Match 53,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,136/8,20/20,Pune Warriors India,137/4,18.2/20,Pune Warriors India
+196,2011,Match 52,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,133,19.3/20,Chennai Super Kings,196/3,20/20,Chennai Super Kings
+197,2011,Match 51,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,119/8,20/20,Pune Warriors India,120/5,17.1/20,Pune Warriors India
+198,2011,Match 50,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,128/1,13.1/20,Kochi Tuskers Kerala,125/9,20/20,Royal Challengers Bangalore
+199,2011,Match 49,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,178/4,20/20,Delhi Capitals,146,19.5/20,Mumbai Indians
+200,2011,Match 48,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,61/2,10/10,Chennai Super Kings,51/4,10/20,Kolkata Knight Riders
+201,2011,Match 47,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,205/6,20/20,Punjab Kings,120/9,20/20,Royal Challengers Bangalore
+202,2011,Match 46,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,175/5,20/20,Delhi Capitals,179/6,19/20,Delhi Capitals
+203,2011,Match 45,16:00,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,156/5,20/20,Kolkata Knight Riders,139/7,20/20,Kochi Tuskers Kerala
+204,2011,Match 44,20:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,139/7,20/20,Mumbai Indians,160/7,20/20,Mumbai Indians
+205,2011,Match 43,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,149/2,18.4/20,Rajasthan Royals,147/6,20/20,Chennai Super Kings
+206,2011,Match 42,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,149/6,20/20,Kolkata Knight Riders,169/4,20/20,Kolkata Knight Riders
+207,2011,Match 41,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,140/6,20/20,Kochi Tuskers Kerala,141/3,15/20,Kochi Tuskers Kerala
+208,2011,Match 40,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,159/5,20/20,Punjab Kings,136/8,20/20,Mumbai Indians
+209,2011,Match 39,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,165/5,20/20,Deccan Chargers,146/8,20/20,Chennai Super Kings
+210,2011,Match 38,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,144/4,19.3/20,Pune Warriors India,143/7,20/20,Rajasthan Royals
+211,2011,Match 37,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,120/2,17.2/20,Punjab Kings,119/6,20/20,Kolkata Knight Riders
+212,2011,Match 36,16:00,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,119,18.5/20,Delhi Capitals,157/7,20/20,Delhi Capitals
+213,2011,Match 35,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,181/5,20/20,Pune Warriors India,155/5,20/20,Royal Challengers Bangalore
+214,2011,Match 34,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,95/3,18.1/20,Mumbai Indians,94/8,20/20,Rajasthan Royals
+215,2011,Match 33,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,131/9,20/20,Kolkata Knight Riders,148/7,20/20,Kolkata Knight Riders
+216,2011,Match 32,20:00,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,74,16.3/20,Deccan Chargers,129/7,20/20,Deccan Chargers
+217,2011,Match 31,16:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,141/6,20/20,Chennai Super Kings,145/2,19.3/20,Chennai Super Kings
+218,2011,Match 30,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,160/6,20/20,Royal Challengers Bangalore,161/7,19.3/20,Royal Challengers Bangalore
+219,2011,Match 29,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,142/6,20/20,Pune Warriors India,117/9,20/20,Chennai Super Kings
+220,2011,Match 28,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,111/2,14.1/20,Kochi Tuskers Kerala,109,20/20,Rajasthan Royals
+221,2011,Match 27,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,135/8,20/20,Mumbai Indians,172/4,20/20,Mumbai Indians
+222,2011,Match 26,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,231/4,20/20,Punjab Kings,202/6,20/20,Delhi Capitals
+223,2011,Match 25,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,164/4,20/20,Chennai Super Kings,156/9,20/20,Mumbai Indians
+224,2011,Match 24,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,171/5,20/20,Royal Challengers Bangalore,175/1,18.1/20,Royal Challengers Bangalore
+225,2011,Match 23,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,195/7,20/20,Rajasthan Royals,147/7,20/20,Punjab Kings
+226,2011,Match 22,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,126/9,20/20,Kochi Tuskers Kerala,132/7,20/20,Kochi Tuskers Kerala
+227,2011,Match 21,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,124/3,20/20,Pune Warriors India,118,17.2/20,Mumbai Indians
+228,2011,Match 19,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,152/7,20/20,Deccan Chargers,168/4,20/20,Deccan Chargers
+229,2011,Match 18,20:00,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,135/3,15/17,Chennai Super Kings,134/4,17/17,Kochi Tuskers Kerala
+230,2011,Match 17,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,85/2,13.5/20,Rajasthan Royals,81,15.2/20,Kolkata Knight Riders
+231,2011,Match 16,16:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,187/5,20/20,Delhi Capitals,190/7,19.2/20,Delhi Capitals
+232,2011,Match 15,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,165/8,20/20,Punjab Kings,166/2,17.4/20,Punjab Kings
+233,2011,Match 14,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,183/5,20/20,Royal Challengers Bangalore,162/7,20/20,Chennai Super Kings
+234,2011,Match 13,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,182/2,20/20,Kochi Tuskers Kerala,184/2,19/20,Kochi Tuskers Kerala
+235,2011,Match 12,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,159/4,20/20,Kolkata Knight Riders,160/1,18.3/20,Kolkata Knight Riders
+236,2011,Match 11,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,175/5,20/20,Royal Challengers Bangalore,142/9,20/20,Deccan Chargers
+237,2011,Match 10,20:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,151/6,18.5/20,Kochi Tuskers Kerala,148/8,20/20,Pune Warriors India
+238,2011,Match 9,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,193/4,19.1/20,Chennai Super Kings,188/4,20/20,Punjab Kings
+239,2011,Match 8,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,140/4,20/20,Mumbai Indians,143/1,18.3/20,Mumbai Indians
+240,2011,Match 7,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,152/4,18.3/20,Delhi Capitals,151/6,20/20,Rajasthan Royals
+241,2011,Match 6,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,163/4,20/20,Deccan Chargers,154/8,20/20,Kolkata Knight Riders
+242,2011,Match 5,20:00,"DY Patil Stadium, Navi Mumbai",Pune Warriors India,113/3,13.1/20,Punjab Kings,112/8,20/20,Pune Warriors India
+243,2011,Match 4,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,95,17.4/20,Mumbai Indians,99/2,16.5/20,Mumbai Indians
+244,2011,Match 3,20:00,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,161/5,20/20,Royal Challengers Bangalore,162/4,18.4/20,Royal Challengers Bangalore
+245,2011,Match 2,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,137/8,20/20,Rajasthan Royals,141/2,18.5/20,Rajasthan Royals
+246,2011,Match 1,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,153/4,20/20,Kolkata Knight Riders,151/7,20/20,Chennai Super Kings
+247,2012,Final,20:00,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,192/5,19.4/20,Chennai Super Kings,190/3,20/20,Kolkata Knight Riders
+248,2012,Qualifier 2,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,222/5,20/20,Delhi Capitals,136,16.5/20,Chennai Super Kings
+249,2012,Eliminator,20:00,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,149/9,20/20,Chennai Super Kings,187/5,20/20,Chennai Super Kings
+250,2012,Qualifier 1,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Delhi Capitals,144/8,20/20,Kolkata Knight Riders,162/4,20/20,Kolkata Knight Riders
+251,2012,Match 72,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,162/6,20/20,Mumbai Indians,163/0,18/20,Mumbai Indians
+252,2012,Match 71,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,132/7,20/20,Royal Challengers Bangalore,123/9,20/20,Deccan Chargers
+253,2012,Match 70,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,102/8,20/20,Kolkata Knight Riders,136/4,20/20,Kolkata Knight Riders
+254,2012,Match 69,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,141/8,20/20,Delhi Capitals,145/4,18.2/20,Delhi Capitals
+255,2012,Match 68,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,128/5,18.4/20,Rajasthan Royals,126/8,20/20,Deccan Chargers
+256,2012,Match 67,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,194/9,20/20,Royal Challengers Bangalore,215/1,20/20,Royal Challengers Bangalore
+257,2012,Match 66,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,123/4,16.3/20,Chennai Super Kings,120/7,20/20,Punjab Kings
+258,2012,Match 65,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,108,19.1/20,Kolkata Knight Riders,140/7,20/20,Kolkata Knight Riders
+259,2012,Match 64,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,140/5,19/20,Punjab Kings,136/8,20/20,Delhi Capitals
+260,2012,Match 63,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,158/6,20/20,Chennai Super Kings,160/5,20/20,Chennai Super Kings
+261,2012,Match 62,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,171/6,20/20,Mumbai Indians,173/5,19.4/20,Mumbai Indians
+262,2012,Match 61,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,194/6,20/20,Deccan Chargers,190/4,20/20,Punjab Kings
+263,2012,Match 60,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,170/4,20/20,Pune Warriors India,125/9,20/20,Rajasthan Royals
+264,2012,Match 59,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,115/1,15.2/20,Delhi Capitals,114/5,20/20,Chennai Super Kings
+265,2012,Match 58,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,155/4,20/20,Mumbai Indians,182/1,20/20,Mumbai Indians
+266,2012,Match 57,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,138/9,20/20,Royal Challengers Bangalore,173/3,20/20,Royal Challengers Bangalore
+267,2012,Match 56,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,126/6,20/20,Chennai Super Kings,127/6,18.1/20,Chennai Super Kings
+268,2012,Match 55,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,187/4,20/20,Delhi Capitals,193/1,16.4/20,Delhi Capitals
+269,2012,Match 54,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,141/6,20/20,Royal Challengers Bangalore,142/1,18/20,Royal Challengers Bangalore
+270,2012,Match 53,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Deccan Chargers,145/8,20/20,Punjab Kings,170/5,20/20,Punjab Kings
+271,2012,Match 52,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,125/6,20/20,Rajasthan Royals,126/3,16.2/20,Rajasthan Royals
+272,2012,Match 51,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,153/9,20/20,Kolkata Knight Riders,154/4,18.4/20,Kolkata Knight Riders
+273,2012,Match 50,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,185/5,18.5/20,Deccan Chargers,181/2,20/20,Royal Challengers Bangalore
+274,2012,Match 49,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,174/8,20/20,Chennai Super Kings,173/8,20/20,Mumbai Indians
+275,2012,Match 48,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,134/8,20/20,Rajasthan Royals,177/6,20/20,Rajasthan Royals
+276,2012,Match 47,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,150/5,20/20,Pune Warriors India,143/8,20/20,Kolkata Knight Riders
+277,2012,Match 46,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,160/6,20/20,Deccan Chargers,150/5,20/20,Chennai Super Kings
+278,2012,Match 45,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,119/6,20/20,Mumbai Indians,120/9,20/20,Mumbai Indians
+279,2012,Match 44,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,158/5,20/20,Punjab Kings,163/6,19.5/20,Punjab Kings
+280,2012,Match 43,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,141/6,20/20,Delhi Capitals,144/4,15.2/20,Delhi Capitals
+281,2012,Match 42,16:00,"Barabati Stadium, Cuttack",Deccan Chargers,186/4,20/20,Pune Warriors India,173/5,20/20,Deccan Chargers
+282,2012,Match 41,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,139/5,20/20,Kolkata Knight Riders,140/5,19.4/20,Kolkata Knight Riders
+283,2012,Match 40,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,101/5,18.1/20,Deccan Chargers,100,18.4/20,Mumbai Indians
+284,2012,Match 39,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,152/6,20/20,Rajasthan Royals,151/3,20/20,Delhi Capitals
+285,2012,Match 38,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,190/4,20/20,Royal Challengers Bangalore,143/6,20/20,Kolkata Knight Riders
+286,2012,Match 37,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,149/8,20/20,Punjab Kings,156/8,20/20,Punjab Kings
+287,2012,Match 36,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,207/5,20/20,Mumbai Indians,170/9,20/20,Delhi Capitals
+288,2012,Match 35,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,159/7,20/20,Deccan Chargers,177/4,20/20,Deccan Chargers
+289,2012,Match 33,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,168/3,20/20,Mumbai Indians,171/6,19.5/20,Mumbai Indians
+290,2012,Match 31,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,146/2,20/20,Delhi Capitals,148/2,16/20,Delhi Capitals
+291,2012,Match 30,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,143/7,20/20,Royal Challengers Bangalore,189/3,20/20,Royal Challengers Bangalore
+292,2012,Match 29,20:00,"Barabati Stadium, Cuttack",Deccan Chargers,126/7,20/20,Kolkata Knight Riders,127/5,19/20,Kolkata Knight Riders
+293,2012,Match 28,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,163/6,20/20,Punjab Kings,164/4,19.3/20,Punjab Kings
+294,2012,Match 27,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,172/7,20/20,Pune Warriors India,192/3,20/20,Pune Warriors India
+295,2012,Match 26,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,147/3,20/20,Rajasthan Royals,146/4,20/20,Chennai Super Kings
+296,2012,Match 25,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,163/6,20/20,Royal Challengers Bangalore,166/5,19.3/20,Royal Challengers Bangalore
+297,2012,Match 24,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,164/5,20/20,Pune Warriors India,151/7,20/20,Chennai Super Kings
+298,2012,Match 23,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,162/5,19.1/20,Deccan Chargers,157/8,20/20,Delhi Capitals
+299,2012,Match 22,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,124/7,20/20,Kolkata Knight Riders,127/2,16.3/20,Kolkata Knight Riders
+300,2012,Match 21,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,186/4,20/20,Pune Warriors India,182/6,20/20,Royal Challengers Bangalore
+301,2012,Match 20,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,197/5,19.4/20,Deccan Chargers,196/2,20/20,Rajasthan Royals
+302,2012,Match 19,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,92,19.2/20,Delhi Capitals,93/3,14.5/20,Delhi Capitals
+303,2012,Match 18,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,136,19.5/20,Rajasthan Royals,195/2,20/20,Rajasthan Royals
+304,2012,Match 17,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,132/7,20/20,Punjab Kings,134/9,20/20,Punjab Kings
+305,2012,Match 16,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,156/3,19.2/20,Chennai Super Kings,155/5,20/20,Pune Warriors India
+306,2012,Match 15,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,137/5,19.2/20,Rajasthan Royals,131/5,20/20,Kolkata Knight Riders
+307,2012,Match 14,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,116/3,17.4/20,Pune Warriors India,115,19/20,Punjab Kings
+308,2012,Match 13,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,208/5,20/20,Royal Challengers Bangalore,205/8,20/20,Chennai Super Kings
+309,2012,Match 12,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,197/6,20/20,Rajasthan Royals,170,19.4/20,Mumbai Indians
+310,2012,Match 11,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,111/2,13.2/20,Chennai Super Kings,110/8,20/20,Delhi Capitals
+311,2012,Match 10,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,123/9,20/20,Kolkata Knight Riders,165/8,20/20,Kolkata Knight Riders
+312,2012,Match 9,20:00,"ACA-VDCA Stadium, Visakhapatnam",Deccan Chargers,138/9,20/20,Mumbai Indians,142/5,20/20,Mumbai Indians
+313,2012,Match 8,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,166/6,20/20,Punjab Kings,144/8,20/20,Pune Warriors India
+314,2012,Match 7,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,164/5,20/20,Kolkata Knight Riders,142,20/20,Rajasthan Royals
+315,2012,Match 6,20:00,"ACA-VDCA Stadium, Visakhapatnam",Deccan Chargers,119,17.1/20,Chennai Super Kings,193/6,20/20,Chennai Super Kings
+316,2012,Match 5,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,157/8,20/20,Delhi Capitals,137/7,20/20,Royal Challengers Bangalore
+317,2012,Match 4,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,191/4,20/20,Punjab Kings,160/9,20/20,Rajasthan Royals
+318,2012,Match 3,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,101/9,20/20,Pune Warriors India,129/9,20/20,Pune Warriors India
+319,2012,Match 2,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,97/9,12/12,Delhi Capitals,100/2,11.1/12,Delhi Capitals
+320,2012,Match 1,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,112,19.5/20,Mumbai Indians,115/2,16.5/20,Mumbai Indians
+321,2013,Final,20:00,"Eden Gardens, Kolkata",Chennai Super Kings,125/9,20/20,Mumbai Indians,148/9,20/20,Mumbai Indians
+322,2013,Qualifier 2,20:00,"Eden Gardens, Kolkata",Rajasthan Royals,165/6,20/20,Mumbai Indians,169/6,19.5/20,Mumbai Indians
+323,2013,Eliminator,20:00,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,135/6,19.2/20,Sunrisers Hyderabad,132/7,20/20,Rajasthan Royals
+324,2013,Qualifier 1,20:00,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,192/1,20/20,Mumbai Indians,144,18.4/20,Chennai Super Kings
+325,2013,Match 72,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,132/5,18.5/20,Kolkata Knight Riders,130/7,20/20,Sunrisers Hyderabad
+326,2013,Match 71,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,172/5,20/20,Delhi Capitals,134/9,20/20,Pune Warriors India
+327,2013,Match 70,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,106/2,8/8,Chennai Super Kings,82/6,8/8,Royal Challengers Bangalore
+328,2013,Match 69,16:00,"HPCA Stadium, Dharamsala",Punjab Kings,183/8,20/20,Mumbai Indians,133,19.1/20,Punjab Kings
+329,2013,Match 68,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,136/9,20/20,Rajasthan Royals,113/9,20/20,Sunrisers Hyderabad
+330,2013,Match 67,20:00,"HPCA Stadium, Dharamsala",Punjab Kings,171/4,20/20,Delhi Capitals,164/7,20/20,Punjab Kings
+331,2013,Match 66,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,166/8,20/20,Rajasthan Royals,152/7,20/20,Mumbai Indians
+332,2013,Match 65,16:00,"JSCA International Cricket Stadium, Ranchi",Kolkata Knight Riders,163/7,20/20,Pune Warriors India,170/4,20/20,Pune Warriors India
+333,2013,Match 64,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,168/4,20/20,Delhi Capitals,135/9,20/20,Chennai Super Kings
+334,2013,Match 63,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,174/5,20/20,Punjab Kings,176/3,18.1/20,Punjab Kings
+335,2013,Match 62,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,184/3,19.3/20,Sunrisers Hyderabad,178/3,20/20,Mumbai Indians
+336,2013,Match 61,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,144/5,17.1/20,Chennai Super Kings,141/4,20/20,Rajasthan Royals
+337,2013,Match 60,16:00,"JSCA International Cricket Stadium, Ranchi",Kolkata Knight Riders,116/5,19.2/20,Royal Challengers Bangalore,115/9,20/20,Kolkata Knight Riders
+338,2013,Match 59,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,120/9,20/20,Sunrisers Hyderabad,150/7,20/20,Sunrisers Hyderabad
+339,2013,Match 58,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,112/8,20/20,Mumbai Indians,116/5,18.5/20,Mumbai Indians
+340,2013,Match 57,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,179/7,20/20,Royal Challengers Bangalore,183/4,20/20,Royal Challengers Bangalore
+341,2013,Match 56,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,106,19.3/20,Kolkata Knight Riders,152/6,20/20,Kolkata Knight Riders
+342,2013,Match 55,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,145/6,20/20,Rajasthan Royals,147/2,19/20,Rajasthan Royals
+343,2013,Match 54,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,146/8,20/20,Chennai Super Kings,223/3,20/20,Chennai Super Kings
+344,2013,Match 53,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,170/6,20/20,Kolkata Knight Riders,105,18.2/20,Mumbai Indians
+345,2013,Match 52,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,155/1,17.5/20,Delhi Capitals,154/4,20/20,Rajasthan Royals
+346,2013,Match 51,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,194/4,18/20,Royal Challengers Bangalore,190/3,20/20,Punjab Kings
+347,2013,Match 50,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,182/5,19.5/20,Pune Warriors India,178/4,20/20,Rajasthan Royals
+348,2013,Match 49,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,139/5,20/20,Chennai Super Kings,79,15.2/20,Mumbai Indians
+349,2013,Match 48,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,81/4,13.5/20,Delhi Capitals,80,19.1/20,Sunrisers Hyderabad
+350,2013,Match 47,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,133/2,17.2/20,Rajasthan Royals,132/6,20/20,Kolkata Knight Riders
+351,2013,Match 46,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,170/9,20/20,Royal Challengers Bangalore,187/3,20/20,Royal Challengers Bangalore
+352,2013,Match 45,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,186/4,20/20,Punjab Kings,171/6,20/20,Chennai Super Kings
+353,2013,Match 44,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,137/3,17.5/20,Kolkata Knight Riders,136/7,20/20,Delhi Capitals
+354,2013,Match 43,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,130/3,18/20,Mumbai Indians,129/4,20/20,Sunrisers Hyderabad
+355,2013,Match 42,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,127/9,20/20,Chennai Super Kings,164/3,20/20,Chennai Super Kings
+356,2013,Match 41,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,174/3,20/20,Punjab Kings,170,20/20,Mumbai Indians
+357,2013,Match 40,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,173/6,19.5/20,Royal Challengers Bangalore,171/6,20/20,Rajasthan Royals
+358,2013,Match 39,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,164/5,20/20,Pune Warriors India,149/4,20/20,Delhi Capitals
+359,2013,Match 38,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,200/3,20/20,Kolkata Knight Riders,186/4,20/20,Chennai Super Kings
+360,2013,Match 37,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,194/7,20/20,Royal Challengers Bangalore,136/7,20/20,Mumbai Indians
+361,2013,Match 36,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,146/2,17.5/20,Sunrisers Hyderabad,144/9,20/20,Rajasthan Royals
+362,2013,Match 35,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,150/4,18.2/20,Punjab Kings,149/6,20/20,Kolkata Knight Riders
+363,2013,Match 34,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,160/5,19.4/20,Sunrisers Hyderabad,159/6,20/20,Chennai Super Kings
+364,2013,Match 33,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,159/6,20/20,Mumbai Indians,162/5,19.5/20,Mumbai Indians
+365,2013,Match 32,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,120/7,20/20,Punjab Kings,121/5,17/20,Punjab Kings
+366,2013,Match 31,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,263/5,20/20,Pune Warriors India,133/9,20/20,Royal Challengers Bangalore
+367,2013,Match 30,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,186/5,19.5/20,Rajasthan Royals,185/4,20/20,Chennai Super Kings
+368,2013,Match 29,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,186/3,19.5/20,Pune Warriors India,185/4,20/20,Punjab Kings
+369,2013,Match 28,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,165/1,17/20,Mumbai Indians,161/4,20/20,Delhi Capitals
+370,2013,Match 27,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,123/3,17.5/20,Rajasthan Royals,117,19.4/20,Royal Challengers Bangalore
+371,2013,Match 26,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,119/9,20/20,Chennai Super Kings,124/6,19.1/20,Chennai Super Kings
+372,2013,Match 25,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,127/5,18.5/20,Punjab Kings,123/9,20/20,Sunrisers Hyderabad
+373,2013,Match 24,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,83,17.3/20,Chennai Super Kings,169/4,20/20,Chennai Super Kings
+374,2013,Match 23,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,179/3,20/20,Mumbai Indians,92,18.2/20,Rajasthan Royals
+375,2013,Match 22,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,108,19/20,Sunrisers Hyderabad,119/8,20/20,Sunrisers Hyderabad
+376,2013,Match 21,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,152/7,20/20,Delhi Capitals,152/5,20/20,Royal Challengers Bangalore
+377,2013,Match 20,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,157/9,20/20,Kolkata Knight Riders,153/9,20/20,Punjab Kings
+378,2013,Match 19,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,135/8,20/20,Pune Warriors India,159/5,20/20,Pune Warriors India
+379,2013,Match 18,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,126/4,19.2/20,Punjab Kings,124,18.5/20,Rajasthan Royals
+380,2013,Match 17,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,180/4,20/20,Sunrisers Hyderabad,132/7,20/20,Kolkata Knight Riders
+381,2013,Match 16,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,166/6,19.5/20,Royal Challengers Bangalore,165/6,20/20,Chennai Super Kings
+382,2013,Match 15,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,183/3,20/20,Pune Warriors India,142/8,20/20,Mumbai Indians
+383,2013,Match 14,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,114/8,20/20,Sunrisers Hyderabad,115/7,19.2/20,Sunrisers Hyderabad
+384,2013,Match 13,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,148/3,18.4/20,Rajasthan Royals,145/5,20/20,Pune Warriors India
+385,2013,Match 12,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,158/2,17.3/20,Kolkata Knight Riders,154/8,20/20,Royal Challengers Bangalore
+386,2013,Match 11,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,138,19.5/20,Chennai Super Kings,139/0,17.2/20,Chennai Super Kings
+387,2013,Match 10,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,209/5,20/20,Delhi Capitals,165/9,20/20,Mumbai Indians
+388,2013,Match 9,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,162/3,17.4/20,Sunrisers Hyderabad,161/6,20/20,Royal Challengers Bangalore
+389,2013,Match 8,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,144/6,20/20,Kolkata Knight Riders,125,19/20,Rajasthan Royals
+390,2013,Match 7,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,130/7,20/20,Royal Challengers Bangalore,130/8,20/20,Sunrisers Hyderabad
+391,2013,Match 6,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Pune Warriors India,99/9,20/20,Punjab Kings,100/2,12.2/20,Punjab Kings
+392,2013,Match 5,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,139/9,20/20,Mumbai Indians,148/6,20/20,Mumbai Indians
+393,2013,Match 4,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,160/6,20/20,Rajasthan Royals,165/7,20/20,Rajasthan Royals
+394,2013,Match 3,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,126/6,20/20,Pune Warriors India,104,18.5/20,Sunrisers Hyderabad
+395,2013,Match 2,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,156/5,20/20,Mumbai Indians,154/5,20/20,Royal Challengers Bangalore
+396,2013,Match 1,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,129/4,18.4/20,Delhi Capitals,128,20/20,Kolkata Knight Riders
+397,2014,Final,20:00,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,199/4,20/20,Kolkata Knight Riders,200/7,19.3/20,Kolkata Knight Riders
+398,2014,Qualifier 2,20:00,"Wankhede Stadium, Mumbai",Punjab Kings,226/6,20/20,Chennai Super Kings,202/7,20/20,Punjab Kings
+399,2014,Eliminator,20:00,"Brabourne Stadium, Mumbai",Chennai Super Kings,176/3,18.4/20,Mumbai Indians,173/8,20/20,Chennai Super Kings
+400,2014,Qualifier 1,16:00,"Eden Gardens, Kolkata",Punjab Kings,135/8,20/20,Kolkata Knight Riders,163/8,20/20,Kolkata Knight Riders
+401,2014,Match 56,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,195/5,14.4/20,Rajasthan Royals,189/4,20/20,Mumbai Indians
+402,2014,Match 55,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,119/3,13.5/20,Delhi Capitals,115,18.1/20,Punjab Kings
+403,2014,Match 54,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,161/6,14.2/20,Sunrisers Hyderabad,160/7,20/20,Kolkata Knight Riders
+404,2014,Match 53,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,154/6,20/20,Chennai Super Kings,160/2,17.4/20,Chennai Super Kings
+405,2014,Match 52,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,179/4,20/20,Rajasthan Royals,163/8,20/20,Punjab Kings
+406,2014,Match 51,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,173,19.3/20,Delhi Capitals,158/4,20/20,Mumbai Indians
+407,2014,Match 50,20:00,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,185/3,20/20,Sunrisers Hyderabad,189/4,19.4/20,Sunrisers Hyderabad
+408,2014,Match 49,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,195/4,20/20,Royal Challengers Bangalore,165/5,20/20,Kolkata Knight Riders
+409,2014,Match 48,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,156/8,20/20,Mumbai Indians,159/3,19/20,Mumbai Indians
+410,2014,Match 47,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,156/2,18/20,Chennai Super Kings,154/4,20/20,Kolkata Knight Riders
+411,2014,Match 46,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,161/3,19.4/20,Royal Challengers Bangalore,160/6,20/20,Sunrisers Hyderabad
+412,2014,Match 45,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,164/7,20/20,Punjab Kings,165/6,19.4/20,Punjab Kings
+413,2014,Match 44,16:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,153/8,20/20,Mumbai Indians,178/3,20/20,Mumbai Indians
+414,2014,Match 43,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,142/8,20/20,Kolkata Knight Riders,146/3,19.4/20,Kolkata Knight Riders
+415,2014,Match 42,16:00,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,138/4,20/20,Royal Challengers Bangalore,142/5,19.5/20,Royal Challengers Bangalore
+416,2014,Match 41,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,201/6,20/20,Delhi Capitals,139/9,20/20,Rajasthan Royals
+417,2014,Match 40,20:00,"Barabati Stadium, Cuttack",Kolkata Knight Riders,142/4,18.4/20,Mumbai Indians,141/5,20/20,Kolkata Knight Riders
+418,2014,Match 39,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,205/5,20/20,Punjab Kings,211/4,18.4/20,Punjab Kings
+419,2014,Match 38,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,186/4,20/20,Delhi Capitals,170/7,20/20,Royal Challengers Bangalore
+420,2014,Match 37,16:00,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,149/5,19.4/20,Rajasthan Royals,148/8,20/20,Chennai Super Kings
+421,2014,Match 36,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,157/3,20/20,Mumbai Indians,160/3,18.4/20,Mumbai Indians
+422,2014,Match 35,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,190/5,20/20,Rajasthan Royals,191/5,18.5/20,Rajasthan Royals
+423,2014,Match 34,16:00,"Barabati Stadium, Cuttack",Punjab Kings,149/8,20/20,Kolkata Knight Riders,150/1,18/20,Kolkata Knight Riders
+424,2014,Match 33,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,157/6,20/20,Chennai Super Kings,160/6,19.3/20,Chennai Super Kings
+425,2014,Match 32,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,143/7,20/20,Sunrisers Hyderabad,44/2,2/5,Sunrisers Hyderabad
+426,2014,Match 31,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,166/9,20/20,Punjab Kings,198/8,20/20,Punjab Kings
+427,2014,Match 30,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,102,19.5/20,Sunrisers Hyderabad,134/9,20/20,Sunrisers Hyderabad
+428,2014,Match 29,20:00,"Barabati Stadium, Cuttack",Punjab Kings,231/4,20/20,Chennai Super Kings,187/6,20/20,Punjab Kings
+429,2014,Match 28,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,160/5,20/20,Kolkata Knight Riders,161/2,18.2/20,Kolkata Knight Riders
+430,2014,Match 27,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,187/5,20/20,Royal Challengers Bangalore,168/8,20/20,Mumbai Indians
+431,2014,Match 26,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,178/5,20/20,Chennai Super Kings,181/2,19.4/20,Chennai Super Kings
+432,2014,Match 25,16:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,170/6,20/20,Kolkata Knight Riders,160/6,20/20,Rajasthan Royals
+433,2014,Match 24,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,158/6,19.5/20,Sunrisers Hyderabad,155/6,20/20,Royal Challengers Bangalore
+434,2014,Match 23,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,152/5,20/20,Rajasthan Royals,156/3,18.3/20,Rajasthan Royals
+435,2014,Match 22,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,170/5,19.1/20,Punjab Kings,168/5,20/20,Mumbai Indians
+436,2014,Match 21,20:00,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,148/3,17/17,Kolkata Knight Riders,114/9,17/17,Chennai Super Kings
+437,2014,Match 20,20:00,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,157/7,20/20,Sunrisers Hyderabad,172/5,20/20,Sunrisers Hyderabad
+438,2014,Match 19,20:00,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,152/8,20/20,Rajasthan Royals,152/5,20/20,Rajasthan Royals
+439,2014,Match 18,20:00,"Dubai International Cricket Stadium, Dubai",Punjab Kings,127/5,18.5/20,Royal Challengers Bangalore,124/8,20/20,Punjab Kings
+440,2014,Match 17,20:00,"Sharjah Cricket Stadium, Sharjah",Sunrisers Hyderabad,145/5,20/20,Chennai Super Kings,146/5,19.3/20,Chennai Super Kings
+441,2014,Match 16,16:00,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,126/4,18.5/20,Mumbai Indians,125/6,20/20,Delhi Capitals
+442,2014,Match 15,20:00,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,109,18.2/20,Punjab Kings,132/9,20/20,Punjab Kings
+443,2014,Match 14,16:00,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,71/4,13/20,Royal Challengers Bangalore,70,15/20,Rajasthan Royals
+444,2014,Match 13,20:00,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,142/3,19/20,Mumbai Indians,141/7,20/20,Chennai Super Kings
+445,2014,Match 12,16:00,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,184/1,20/20,Delhi Capitals,180/4,20/20,Sunrisers Hyderabad
+446,2014,Match 11,20:00,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,148/5,20/20,Kolkata Knight Riders,150/7,20/20,Kolkata Knight Riders
+447,2014,Match 10,20:00,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,133,19.5/20,Chennai Super Kings,140/6,20/20,Chennai Super Kings
+448,2014,Match 9,20:00,"Sharjah Cricket Stadium, Sharjah",Punjab Kings,193/6,20/20,Sunrisers Hyderabad,121,19.2/20,Punjab Kings
+449,2014,Match 8,20:00,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,177/7,20/20,Delhi Capitals,84,15.4/20,Chennai Super Kings
+450,2014,Match 7,20:00,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,191/5,20/20,Punjab Kings,193/3,18.4/20,Punjab Kings
+451,2014,Match 6,20:00,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,166/5,20/20,Delhi Capitals,167/6,19.3/20,Delhi Capitals
+452,2014,Match 5,16:00,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,116/3,17.3/20,Mumbai Indians,115/9,20/20,Royal Challengers Bangalore
+453,2014,Match 4,20:00,"Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,133/6,20/20,Rajasthan Royals,135/6,19.3/20,Rajasthan Royals
+454,2014,Match 3,16:00,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,205/4,20/20,Punjab Kings,206/4,18.5/20,Punjab Kings
+455,2014,Match 2,20:00,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,145/4,20/20,Royal Challengers Bangalore,146/2,16.4/20,Royal Challengers Bangalore
+456,2014,Match 1,20:00,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,122/7,20/20,Kolkata Knight Riders,163/5,20/20,Kolkata Knight Riders
+457,2015,Final,20:00,"Eden Gardens, Kolkata",Mumbai Indians,202/5,20/20,Chennai Super Kings,161/8,20/20,Mumbai Indians
+458,2015,Qualifier 2,20:00,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,140/7,19.5/20,Royal Challengers Bangalore,139/8,20/20,Chennai Super Kings
+459,2015,Eliminator,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Royal Challengers Bangalore,180/4,20/20,Rajasthan Royals,109,19/20,Royal Challengers Bangalore
+460,2015,Qualifier 1,20:00,"Wankhede Stadium, Mumbai",Chennai Super Kings,162,19/20,Mumbai Indians,187/6,20/20,Mumbai Indians
+461,2015,Match 56,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,113,20/20,Mumbai Indians,114/1,13.5/20,Mumbai Indians
+462,2015,Match 54,20:00,"Brabourne Stadium, Mumbai",Rajasthan Royals,199/6,20/20,Kolkata Knight Riders,190/9,20/20,Rajasthan Royals
+463,2015,Match 53,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,130/7,20/20,Chennai Super Kings,134/3,16.5/20,Chennai Super Kings
+464,2015,Match 52,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,135/3,11/11,Royal Challengers Bangalore,83/4,5/6,Royal Challengers Bangalore
+465,2015,Match 51,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,171/4,20/20,Kolkata Knight Riders,166/7,20/20,Mumbai Indians
+466,2015,Match 50,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,106/6,10/10,Royal Challengers Bangalore,84/6,10/10,Punjab Kings
+467,2015,Match 49,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,120/4,16.4/20,Chennai Super Kings,119/6,20/20,Delhi Capitals
+468,2015,Match 48,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,185/5,20/20,Punjab Kings,180/7,20/20,Sunrisers Hyderabad
+469,2015,Match 47,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,157/5,20/20,Rajasthan Royals,145/9,20/20,Chennai Super Kings
+470,2015,Match 46,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,196/7,20/20,Royal Challengers Bangalore,235/1,20/20,Royal Challengers Bangalore
+471,2015,Match 45,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,157/4,20/20,Sunrisers Hyderabad,163/4,20/20,Sunrisers Hyderabad
+472,2015,Match 44,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,184/9,19.5/20,Punjab Kings,183/5,20/20,Kolkata Knight Riders
+473,2015,Match 43,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,158/5,20/20,Mumbai Indians,159/4,19.2/20,Mumbai Indians
+474,2015,Match 42,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,171/7,20/20,Delhi Capitals,158/6,20/20,Kolkata Knight Riders
+475,2015,Match 41,16:00,"Brabourne Stadium, Mumbai",Rajasthan Royals,194/7,20/20,Sunrisers Hyderabad,201/4,20/20,Sunrisers Hyderabad
+476,2015,Match 40,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,226/3,20/20,Punjab Kings,88,13.4/20,Royal Challengers Bangalore
+477,2015,Match 39,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,153/5,19.3/20,Delhi Capitals,152/6,20/20,Mumbai Indians
+478,2015,Match 38,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,167/7,20/20,Sunrisers Hyderabad,132/9,20/20,Kolkata Knight Riders
+479,2015,Match 37,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,148/9,20/20,Royal Challengers Bangalore,124,19.4/20,Chennai Super Kings
+480,2015,Match 36,20:00,"Brabourne Stadium, Mumbai",Rajasthan Royals,189/2,20/20,Delhi Capitals,175/7,20/20,Rajasthan Royals
+481,2015,Match 35,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,149/7,20/20,Mumbai Indians,172/3,20/20,Mumbai Indians
+482,2015,Match 34,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,192/7,20/20,Chennai Super Kings,170/6,20/20,Sunrisers Hyderabad
+483,2015,Match 33,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,115/3,4/10,Kolkata Knight Riders,111/4,10/10,Royal Challengers Bangalore
+484,2015,Match 32,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,187/5,20/20,Rajasthan Royals,179/7,20/20,Mumbai Indians
+485,2015,Match 31,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,119/1,13.5/20,Punjab Kings,118/8,20/20,Delhi Capitals
+486,2015,Match 30,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,169/3,19.5/20,Chennai Super Kings,165/9,20/20,Kolkata Knight Riders
+487,2015,Match 28,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,134/6,20/20,Kolkata Knight Riders,132/9,20/20,Chennai Super Kings
+488,2015,Match 27,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,130/9,20/20,Sunrisers Hyderabad,150/6,20/20,Sunrisers Hyderabad
+489,2015,Match 26,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,95,18.2/20,Royal Challengers Bangalore,99/0,10.3/20,Royal Challengers Bangalore
+490,2015,Match 24,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,192/3,20/20,Punjab Kings,95/9,20/20,Chennai Super Kings
+491,2015,Match 23,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,157/8,20/20,Sunrisers Hyderabad,137/8,20/20,Mumbai Indians
+492,2015,Match 22,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,130/9,20/20,Royal Challengers Bangalore,134/1,16.1/20,Royal Challengers Bangalore
+493,2015,Match 21,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,190/4,20/20,Mumbai Indians,153/9,20/20,Delhi Capitals
+494,2015,Match 20,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,154/8,20/20,Chennai Super Kings,181/8,20/20,Chennai Super Kings
+495,2015,Match 19,16:00,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,176/4,20/20,Kolkata Knight Riders,101/4,12/12,Sunrisers Hyderabad
+496,2015,Match 18,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,191/6,20/20,Punjab Kings,191/6,20/20,Kings XI Punjab
+497,2015,Match 17,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,146/8,20/20,Kolkata Knight Riders,147/4,18.1/20,Kolkata Knight Riders
+498,2015,Match 16,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,191/7,20/20,Mumbai Indians,209/7,20/20,Mumbai Indians
+499,2015,Match 15,16:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,157/2,18.2/20,Chennai Super Kings,156/4,20/20,Rajasthan Royals
+500,2015,Match 14,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Punjab Kings,155/9,20/20,Kolkata Knight Riders,159/6,17.5/20,Kolkata Knight Riders
+501,2015,Match 13,16:00,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,163/8,20/20,Delhi Capitals,167/4,20/20,Delhi Capitals
+502,2015,Match 12,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,183/7,20/20,Chennai Super Kings,189/4,16.4/20,Chennai Super Kings
+503,2015,Match 11,20:00,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,127/5,20/20,Rajasthan Royals,131/4,20/20,Rajasthan Royals
+504,2015,Match 10,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Punjab Kings,165/7,20/20,Delhi Capitals,169/5,19.5/20,Delhi Capitals
+505,2015,Match 9,20:00,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,165/3,19.1/20,Mumbai Indians,164/5,20/20,Rajasthan Royals
+506,2015,Match 8,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,166,19.5/20,Sunrisers Hyderabad,172/2,17.2/20,Sunrisers Hyderabad
+507,2015,Match 7,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,159/7,20/20,Punjab Kings,177/5,20/20,Punjab Kings
+508,2015,Match 6,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,184/3,20/20,Rajasthan Royals,186/7,20/20,Rajasthan Royals
+509,2015,Match 5,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,177/6,20/20,Royal Challengers Bangalore,179/7,19/20,Royal Challengers Bangalore
+510,2015,Match 4,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,209/4,20/20,Sunrisers Hyderabad,164/6,20/20,Chennai Super Kings
+511,2015,Match 3,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Punjab Kings,136/8,20/20,Rajasthan Royals,162/7,20/20,Rajasthan Royals
+512,2015,Match 2,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,150/7,20/20,Delhi Capitals,149/9,20/20,Chennai Super Kings
+513,2015,Match 1,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,170/3,18.3/20,Mumbai Indians,168/3,20/20,Kolkata Knight Riders
+514,2016,Final,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,200/7,20/20,Sunrisers Hyderabad,208/7,20/20,Sunrisers Hyderabad
+515,2016,Qualifier 2,20:00,"Arun Jaitley Stadium, Delhi",Gujarat Lions,162/7,20/20,Sunrisers Hyderabad,163/6,19.2/20,Sunrisers Hyderabad
+516,2016,Eliminator,20:00,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,162/8,20/20,Kolkata Knight Riders,140/8,20/20,Sunrisers Hyderabad
+517,2016,Qualifier 1,20:00,"M. Chinnaswamy Stadium, Bengaluru",Gujarat Lions,158,20/20,Royal Challengers Bangalore,159/6,18.2/20,Royal Challengers Bangalore
+518,2016,Match 56,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,138/8,20/20,Royal Challengers Bangalore,139/4,18.1/20,Royal Challengers Bangalore
+519,2016,Match 55,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,171/6,20/20,Sunrisers Hyderabad,149/8,20/20,Kolkata Knight Riders
+520,2016,Match 54,20:00,"Green Park, Kanpur",Gujarat Lions,173/4,17.5/20,Mumbai Indians,172/8,20/20,Gujarat Lions
+521,2016,Match 53,16:00,"ACA-VDCA Stadium, Visakhapatnam",Rising Pune Supergiant,173/6,20/20,Punjab Kings,172/7,20/20,Rising Pune Supergiant
+522,2016,Match 52,20:00,"Shaheed Veer Narayan Singh International Cricket Stadium, Naya Raipur",Delhi Capitals,161/4,20/20,Sunrisers Hyderabad,158/7,20/20,Delhi Capitals
+523,2016,Match 51,20:00,"Green Park, Kanpur",Gujarat Lions,125/4,13.3/20,Kolkata Knight Riders,124/8,20/20,Gujarat Lions
+524,2016,Match 50,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,211/3,15/15,Punjab Kings,120/9,14/14,Royal Challengers Bangalore
+525,2016,Match 49,20:00,"ACA-VDCA Stadium, Visakhapatnam",Rising Pune Supergiant,76/1,11/11,Delhi Capitals,121/6,20/20,Rising Pune Supergiant
+526,2016,Match 48,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,183/5,20/20,Royal Challengers Bangalore,186/1,18.4/20,Royal Challengers Bangalore
+527,2016,Match 47,20:00,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,206/4,20/20,Delhi Capitals,126,19.1/20,Mumbai Indians
+528,2016,Match 46,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,179/4,20/20,Sunrisers Hyderabad,180/3,19.4/20,Sunrisers Hyderabad
+529,2016,Match 45,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,66/2,5/9,Rising Pune Supergiant,103/6,17.4/17,Kolkata Knight Riders
+530,2016,Match 44,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,248/3,20/20,Gujarat Lions,104,18.4/20,Royal Challengers Bangalore
+531,2016,Match 43,20:00,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,124/9,20/20,Punjab Kings,127/3,17/20,Punjab Kings
+532,2016,Match 42,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,146/8,20/20,Delhi Capitals,150/3,18.1/20,Delhi Capitals
+533,2016,Match 41,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,151/4,20/20,Mumbai Indians,153/4,18.4/20,Mumbai Indians
+534,2016,Match 40,20:00,"ACA-VDCA Stadium, Visakhapatnam",Rising Pune Supergiant,133/8,20/20,Sunrisers Hyderabad,137/8,20/20,Sunrisers Hyderabad
+535,2016,Match 39,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,174/4,20/20,Royal Challengers Bangalore,175/6,20/20,Royal Challengers Bangalore
+536,2016,Match 38,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,158/4,20/20,Gujarat Lions,164/5,18/20,Gujarat Lions
+537,2016,Match 37,16:00,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,92,16.3/20,Sunrisers Hyderabad,177/3,20/20,Sunrisers Hyderabad
+538,2016,Match 36,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,181/5,20/20,Delhi Capitals,172/5,20/20,Punjab Kings
+539,2016,Match 35,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,195/3,19.3/20,Rising Pune Supergiant,191/6,20/20,Royal Challengers Bangalore
+540,2016,Match 34,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,129/5,19/20,Gujarat Lions,126/6,20/20,Sunrisers Hyderabad
+541,2016,Match 33,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,162/7,20/20,Rising Pune Supergiant,166/3,19.1/20,Rising Pune Supergiant
+542,2016,Match 32,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,164/3,20/20,Punjab Kings,157/9,20/20,Kolkata Knight Riders
+543,2016,Match 31,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,149/7,20/20,Delhi Capitals,150/2,17.2/20,Delhi Capitals
+544,2016,Match 30,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,185/7,20/20,Kolkata Knight Riders,189/5,19.1/20,Kolkata Knight Riders
+545,2016,Match 29,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,159/5,20/20,Mumbai Indians,161/2,18.3/20,Mumbai Indians
+546,2016,Match 28,16:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,131/9,20/20,Punjab Kings,154,19.5/20,Punjab Kings
+547,2016,Match 27,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,194/5,20/20,Royal Challengers Bangalore,179/6,20/20,Sunrisers Hyderabad
+548,2016,Match 26,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,186/8,20/20,Kolkata Knight Riders,159,18.3/20,Delhi Capitals
+549,2016,Match 25,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,195/3,20/20,Gujarat Lions,196/7,20/20,Gujarat Lions
+550,2016,Match 24,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,178/4,18/20,Kolkata Knight Riders,174/5,20/20,Mumbai Indians
+551,2016,Match 23,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,171/5,20/20,Gujarat Lions,172/6,20/20,Gujarat Lions
+552,2016,Match 22,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,118/8,20/20,Rising Pune Supergiant,94/3,11/11,Rising Pune Supergiant
+553,2016,Match 21,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,164/7,20/20,Mumbai Indians,189/6,20/20,Mumbai Indians
+554,2016,Match 20,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,160/5,20/20,Kolkata Knight Riders,162/8,19.3/20,Kolkata Knight Riders
+555,2016,Match 19,16:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,182/4,19.3/20,Royal Challengers Bangalore,180/2,20/20,Gujarat Lions
+556,2016,Match 18,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,146/5,17.5/20,Punjab Kings,143/6,20/20,Sunrisers Hyderabad
+557,2016,Match 17,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,164/4,20/20,Mumbai Indians,154/7,20/20,Delhi Capitals
+558,2016,Match 16,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,172/8,20/20,Royal Challengers Bangalore,185/3,20/20,Royal Challengers Bangalore
+559,2016,Match 15,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,135/8,20/20,Sunrisers Hyderabad,137/0,14.5/20,Sunrisers Hyderabad
+560,2016,Match 14,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,171/4,18/20,Royal Challengers Bangalore,170/7,20/20,Mumbai Indians
+561,2016,Match 13,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,138/8,20/20,Kolkata Knight Riders,141/4,17.1/20,Kolkata Knight Riders
+562,2016,Match 12,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,145/3,17.3/20,Mumbai Indians,142/6,20/20,Sunrisers Hyderabad
+563,2016,Match 11,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,191/5,20/20,Delhi Capitals,192/3,19.1/20,Delhi Capitals
+564,2016,Match 10,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,153/4,18.4/20,Rising Pune Supergiant,152/7,20/20,Punjab Kings
+565,2016,Match 9,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,143/8,20/20,Gujarat Lions,147/7,20/20,Gujarat Lions
+566,2016,Match 8,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,142/7,20/20,Kolkata Knight Riders,146/2,18.2/20,Kolkata Knight Riders
+567,2016,Match 7,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,113/2,13.3/20,Punjab Kings,111/9,20/20,Delhi Capitals
+568,2016,Match 6,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,164/3,18/20,Rising Pune Supergiant,163/5,20/20,Gujarat Lions
+569,2016,Match 5,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,187/5,20/20,Mumbai Indians,188/4,19.1/20,Mumbai Indians
+570,2016,Match 4,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,227/4,20/20,Sunrisers Hyderabad,182/6,20/20,Royal Challengers Bangalore
+571,2016,Match 3,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,161/6,20/20,Gujarat Lions,162/5,17.4/20,Gujarat Lions
+572,2016,Match 2,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,99/1,14.1/20,Delhi Capitals,98,17.4/20,Kolkata Knight Riders
+573,2016,Match 1,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,121/8,20/20,Rising Pune Supergiant,126/1,14.4/20,Rising Pune Supergiant
+574,2017,Final,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Rising Pune Supergiant,128/5,20/20,Mumbai Indians,129/8,20/20,Mumbai Indians
+575,2017,Qualifier 2,20:00,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,111/4,14.3/20,Kolkata Knight Riders,107,18.5/20,Mumbai Indians
+576,2017,Eliminator,20:00,"M. Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,128/7,20/20,Kolkata Knight Riders,48/3,2/6,Kolkata Knight Riders
+577,2017,Qualifier 1,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,142/9,20/20,Rising Pune Supergiant,162/4,20/20,Rising Pune Supergiant
+578,2017,Match 56,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,151,20/20,Royal Challengers Bangalore,161/6,20/20,Royal Challengers Bangalore
+579,2017,Match 55,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,78/1,12/20,Punjab Kings,73,15.5/20,Rising Pune Supergiant
+580,2017,Match 54,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,164/8,20/20,Mumbai Indians,173/5,20/20,Mumbai Indians
+581,2017,Match 53,16:00,"Green Park, Kanpur",Gujarat Lions,154,19.2/20,Sunrisers Hyderabad,158/2,18.1/20,Sunrisers Hyderabad
+582,2017,Match 52,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,168/8,20/20,Rising Pune Supergiant,161/7,20/20,Delhi Capitals
+583,2017,Match 51,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,223/6,20/20,Punjab Kings,230/3,20/20,Punjab Kings
+584,2017,Match 50,20:00,"Green Park, Kanpur",Gujarat Lions,195/5,20/20,Delhi Capitals,197/8,19.4/20,Delhi Capitals
+585,2017,Match 49,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,167/6,20/20,Kolkata Knight Riders,153/6,20/20,Punjab Kings
+586,2017,Match 48,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,140/3,18.2/20,Mumbai Indians,138/7,20/20,Sunrisers Hyderabad
+587,2017,Match 47,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,189/3,20/20,Gujarat Lions,192/4,19.4/20,Gujarat Lions
+588,2017,Match 46,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,158/6,20/20,Kolkata Knight Riders,159/4,15.1/20,Kolkata Knight Riders
+589,2017,Match 45,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,66,13.4/20,Mumbai Indians,212/3,20/20,Mumbai Indians
+590,2017,Match 44,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,136/9,20/20,Rising Pune Supergiant,148/8,20/20,Rising Pune Supergiant
+591,2017,Match 43,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,119,19/20,Punjab Kings,138/7,20/20,Punjab Kings
+592,2017,Match 42,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,214/3,17.3/20,Gujarat Lions,208/7,20/20,Delhi Capitals
+593,2017,Match 41,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,155/8,20/20,Rising Pune Supergiant,158/6,19.2/20,Rising Pune Supergiant
+594,2017,Match 40,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,189/4,19.1/20,Sunrisers Hyderabad,185/3,20/20,Delhi Capitals
+595,2017,Match 39,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,167/5,19.5/20,Gujarat Lions,161,19.5/20,Rising Pune Supergiant
+596,2017,Match 38,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,165/5,19.5/20,Royal Challengers Bangalore,162/8,20/20,Mumbai Indians
+597,2017,Match 37,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,209/3,20/20,Kolkata Knight Riders,161/7,20/20,Sunrisers Hyderabad
+598,2017,Match 36,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,68/0,5/20,Delhi Capitals,67,17.1/20,Punjab Kings
+599,2017,Match 35,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,153/9,20/20,Mumbai Indians,153,20/20,Mumbai Indians
+600,2017,Match 34,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,157/3,20/20,Royal Challengers Bangalore,96/9,20/20,Rising Pune Supergiant
+601,2017,Match 33,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,181/9,20/20,Sunrisers Hyderabad,207/3,20/20,Sunrisers Hyderabad
+602,2017,Match 32,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,161/3,16.2/20,Delhi Capitals,160/6,20/20,Kolkata Knight Riders
+603,2017,Match 31,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,134,20/20,Gujarat Lions,135/3,13.5/20,Gujarat Lions
+604,2017,Match 30,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,182/5,20/20,Kolkata Knight Riders,184/3,18.1/20,Kolkata Knight Riders
+605,2017,Match 28,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,157/8,20/20,Rising Pune Supergiant,160/6,20/20,Rising Pune Supergiant
+606,2017,Match 27,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,131,19.3/20,Royal Challengers Bangalore,49,4/20,Kolkata Knight Riders
+607,2017,Match 26,16:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,162/7,20/20,Punjab Kings,188/7,20/20,Punjab Kings
+608,2017,Match 25,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,142/8,20/20,Delhi Capitals,128/7,20/20,Mumbai Indians
+609,2017,Match 24,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,179/4,20/20,Sunrisers Hyderabad,176/3,20/20,Rising Pune Supergiant
+610,2017,Match 23,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,187/5,20/20,Gujarat Lions,188/6,18.2/20,Gujarat Lions
+611,2017,Match 22,20:00,"Holkar Cricket Stadium, Indore",Punjab Kings,198/4,20/20,Mumbai Indians,199/2,15.3/20,Mumbai Indians
+612,2017,Match 21,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,191/4,20/20,Delhi Capitals,176/5,20/20,Sunrisers Hyderabad
+613,2017,Match 20,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,192/7,20/20,Royal Challengers Bangalore,213/2,20/20,Royal Challengers Bangalore
+614,2017,Match 19,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,159/6,20/20,Punjab Kings,154,19.4/20,Sunrisers Hyderabad
+615,2017,Match 18,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,168/7,20/20,Kolkata Knight Riders,169/6,19.5/20,Kolkata Knight Riders
+616,2017,Match 17,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,134/9,20/20,Rising Pune Supergiant,161/8,20/20,Rising Pune Supergiant
+617,2017,Match 16,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,177/4,19.3/20,Gujarat Lions,176/4,20/20,Mumbai Indians
+618,2017,Match 15,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,188/6,20/20,Punjab Kings,137/9,20/20,Delhi Capitals
+619,2017,Match 14,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,172/6,20/20,Sunrisers Hyderabad,155/6,20/20,Kolkata Knight Riders
+620,2017,Match 13,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,172/3,18/20,Rising Pune Supergiant,171/8,20/20,Gujarat Lions
+621,2017,Match 12,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,142/5,20/20,Mumbai Indians,145/6,18.5/20,Mumbai Indians
+622,2017,Match 11,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,171/2,16.3/20,Punjab Kings,170/9,20/20,Kolkata Knight Riders
+623,2017,Match 10,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,159/6,18.4/20,Sunrisers Hyderabad,158/8,20/20,Mumbai Indians
+624,2017,Match 9,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,108,16.1/20,Delhi Capitals,205/4,20/20,Delhi Capitals
+625,2017,Match 8,20:00,"Holkar Cricket Stadium, Indore",Punjab Kings,150/2,14.3/20,Royal Challengers Bangalore,148/4,20/20,Punjab Kings
+626,2017,Match 7,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,180/6,19.5/20,Kolkata Knight Riders,178/7,20/20,Mumbai Indians
+627,2017,Match 6,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,140/1,15.3/20,Gujarat Lions,135/7,20/20,Sunrisers Hyderabad
+628,2017,Match 5,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,157/8,20/20,Delhi Capitals,142/9,20/20,Royal Challengers Bangalore
+629,2017,Match 4,16:00,"Holkar Cricket Stadium, Indore",Punjab Kings,164/4,19/20,Rising Pune Supergiant,163/6,20/20,Punjab Kings
+630,2017,Match 3,20:00,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,183/4,20/20,Kolkata Knight Riders,184/0,14.5/20,Kolkata Knight Riders
+631,2017,Match 2,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Rising Pune Supergiant,187/3,19.5/20,Mumbai Indians,184/8,20/20,Rising Pune Supergiant
+632,2017,Match 1,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,207/4,20/20,Royal Challengers Bangalore,172,19.4/20,Sunrisers Hyderabad
+633,2018,Final,19:00,"Wankhede Stadium, Mumbai",Chennai Super Kings,181/2,18.3/20,Sunrisers Hyderabad,178/6,20/20,Chennai Super Kings
+634,2018,Qualifier 2,19:00,"Eden Gardens, Kolkata",Sunrisers Hyderabad,174/7,20/20,Kolkata Knight Riders,160/9,20/20,Sunrisers Hyderabad
+635,2018,Eliminator,19:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,169/7,20/20,Rajasthan Royals,144/4,20/20,Kolkata Knight Riders
+636,2018,Qualifier 1,19:00,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,139/7,20/20,Chennai Super Kings,140/8,19.1/20,Chennai Super Kings
+637,2018,Match 56,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,159/5,19.1/20,Punjab Kings,153,19.4/20,Chennai Super Kings
+638,2018,Match 55,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,174/4,20/20,Mumbai Indians,163,19.3/20,Delhi Capitals
+639,2018,Match 54,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,172/9,20/20,Kolkata Knight Riders,173/5,19.4/20,Kolkata Knight Riders
+640,2018,Match 53,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,164/5,20/20,Royal Challengers Bangalore,134,19.2/20,Rajasthan Royals
+641,2018,Match 52,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,162/5,20/20,Chennai Super Kings,128/6,20/20,Delhi Capitals
+642,2018,Match 51,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,218/6,20/20,Sunrisers Hyderabad,204/3,20/20,Royal Challengers Bangalore
+643,2018,Match 50,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,186/8,20/20,Punjab Kings,183/5,20/20,Mumbai Indians
+644,2018,Match 49,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,145/4,18/20,Rajasthan Royals,142,19/20,Kolkata Knight Riders
+645,2018,Match 48,20:00,"Holkar Cricket Stadium, Indore",Punjab Kings,88,15.1/20,Royal Challengers Bangalore,92/0,1/20,Royal Challengers Bangalore
+646,2018,Match 47,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,168/6,20/20,Rajasthan Royals,171/3,18/20,Rajasthan Royals
+647,2018,Match 46,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,180/2,19/20,Sunrisers Hyderabad,179/4,20/20,Chennai Super Kings
+648,2018,Match 45,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,181/4,20/20,Royal Challengers Bangalore,187/5,19/20,Royal Challengers Bangalore
+649,2018,Match 44,16:00,"Holkar Cricket Stadium, Indore",Punjab Kings,214/8,20/20,Kolkata Knight Riders,245/6,20/20,Kolkata Knight Riders
+650,2018,Match 43,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,177/6,19.5/20,Chennai Super Kings,176/4,20/20,Rajasthan Royals
+651,2018,Match 42,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,187/5,20/20,Sunrisers Hyderabad,191/1,18.5/20,Sunrisers Hyderabad
+652,2018,Match 41,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,108,18.1/20,Mumbai Indians,210/6,20/20,Mumbai Indians
+653,2018,Match 40,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,158/8,20/20,Punjab Kings,143/7,20/20,Rajasthan Royals
+654,2018,Match 39,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,146,20/20,Royal Challengers Bangalore,141/6,20/20,Sunrisers Hyderabad
+655,2018,Match 38,20:00,"Holkar Cricket Stadium, Indore",Punjab Kings,155/4,18.4/20,Rajasthan Royals,152/9,20/20,Punjab Kings
+656,2018,Match 37,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,181/4,20/20,Kolkata Knight Riders,168/6,20/20,Mumbai Indians
+657,2018,Match 36,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,164/3,19.5/20,Delhi Capitals,163/5,20/20,Sunrisers Hyderabad
+658,2018,Match 35,16:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,128/4,18/20,Royal Challengers Bangalore,127/9,20/20,Chennai Super Kings
+659,2018,Match 34,20:00,"Holkar Cricket Stadium, Indore",Punjab Kings,174/6,20/20,Mumbai Indians,176/4,19/20,Mumbai Indians
+660,2018,Match 33,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,180/4,17.4/20,Chennai Super Kings,177/5,20/20,Kolkata Knight Riders
+661,2018,Match 32,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,196/6,17.1/17,Rajasthan Royals,146/5,12/12,Delhi Capitals
+662,2018,Match 31,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,167/7,20/20,Mumbai Indians,153/7,20/20,Royal Challengers Bangalore
+663,2018,Match 30,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,211/4,20/20,Delhi Capitals,198/5,20/20,Chennai Super Kings
+664,2018,Match 29,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,175/4,20/20,Kolkata Knight Riders,176/4,19.1/20,Kolkata Knight Riders
+665,2018,Match 28,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,140/6,20/20,Sunrisers Hyderabad,151/7,20/20,Sunrisers Hyderabad
+666,2018,Match 27,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,169/5,20/20,Mumbai Indians,170/2,19.4/20,Mumbai Indians
+667,2018,Match 26,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,219/4,20/20,Kolkata Knight Riders,164/9,20/20,Delhi Capitals
+668,2018,Match 25,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,132/6,20/20,Punjab Kings,119,19.2/20,Sunrisers Hyderabad
+669,2018,Match 24,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,205/8,20/20,Chennai Super Kings,207/5,19.4/20,Chennai Super Kings
+670,2018,Match 23,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,87,18.5/20,Sunrisers Hyderabad,118,18.4/20,Sunrisers Hyderabad
+671,2018,Match 22,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,139/8,20/20,Punjab Kings,143/8,20/20,Punjab Kings
+672,2018,Match 21,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,168/7,19.4/20,Mumbai Indians,167/7,20/20,Rajasthan Royals
+673,2018,Match 20,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,178/6,20/20,Chennai Super Kings,182/3,20/20,Chennai Super Kings
+674,2018,Match 19,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,176/4,18/20,Delhi Capitals,174/5,20/20,Royal Challengers Bangalore
+675,2018,Match 18,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,191/7,20/20,Punjab Kings,126/1,11.1/13,Punjab Kings
+676,2018,Match 17,20:00,"Maharashtra Cricket Association's International Stadium, Pune",Chennai Super Kings,204/5,20/20,Rajasthan Royals,140,18.3/20,Chennai Super Kings
+677,2018,Match 16,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,193/3,20/20,Sunrisers Hyderabad,178/4,20/20,Punjab Kings
+678,2018,Match 15,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,160/8,20/20,Kolkata Knight Riders,163/3,18.5/20,Kolkata Knight Riders
+679,2018,Match 14,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,213/6,20/20,Royal Challengers Bangalore,167/8,20/20,Mumbai Indians
+680,2018,Match 13,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,200/9,20/20,Delhi Capitals,129,14.2/20,Kolkata Knight Riders
+681,2018,Match 12,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,197/7,20/20,Chennai Super Kings,193/5,20/20,Punjab Kings
+682,2018,Match 11,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,198/6,20/20,Rajasthan Royals,217/4,20/20,Rajasthan Royals
+683,2018,Match 10,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,138/8,20/20,Sunrisers Hyderabad,139/5,19/20,Sunrisers Hyderabad
+684,2018,Match 9,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,194/7,20/20,Delhi Capitals,195/3,20/20,Delhi Capitals
+685,2018,Match 8,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,159/6,19.3/20,Punjab Kings,155,19.2/20,Royal Challengers Bangalore
+686,2018,Match 7,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,151/9,20/20,Mumbai Indians,147/8,20/20,Sunrisers Hyderabad
+687,2018,Match 6,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,153/5,17.5/17,Delhi Capitals,60/4,6/6,Rajasthan Royals
+688,2018,Match 5,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,205/5,19.5/20,Kolkata Knight Riders,202/6,20/20,Chennai Super Kings
+689,2018,Match 4,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,127/1,15.5/20,Rajasthan Royals,125/9,20/20,Sunrisers Hyderabad
+690,2018,Match 3,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,177/6,18.5/20,Royal Challengers Bangalore,176/7,20/20,Kolkata Knight Riders
+691,2018,Match 2,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,167/4,18.5/20,Delhi Capitals,166/7,20/20,Punjab Kings
+692,2018,Match 1,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,165/4,20/20,Chennai Super Kings,169/9,19.5/20,Chennai Super Kings
+693,2019,Final,19:30,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Mumbai Indians,149/8,20/20,Chennai Super Kings,148/7,20/20,Mumbai Indians
+694,2019,Qualifier 2,19:30,"ACA-VDCA Stadium, Visakhapatnam",Chennai Super Kings,151/4,19/20,Delhi Capitals,147/9,20/20,Chennai Super Kings
+695,2019,Eliminator,19:30,"ACA-VDCA Stadium, Visakhapatnam",Delhi Capitals,165/8,19.5/20,Sunrisers Hyderabad,162/8,20/20,Delhi Capitals
+696,2019,Qualifier 1,19:30,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,132/4,18.3/20,Chennai Super Kings,131/4,20/20,Mumbai Indians
+697,2019,Match 56,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,134/1,16.1/20,Kolkata Knight Riders,133/7,20/20,Mumbai Indians
+698,2019,Match 55,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,173/4,18/20,Chennai Super Kings,170/5,20/20,Punjab Kings
+699,2019,Match 54,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,178/6,19.2/20,Sunrisers Hyderabad,175/7,20/20,Royal Challengers Bangalore
+700,2019,Match 53,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,121/5,16.1/20,Rajasthan Royals,115/9,20/20,Delhi Capitals
+701,2019,Match 52,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,183/6,20/20,Kolkata Knight Riders,185/3,18/20,Kolkata Knight Riders
+702,2019,Match 51,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,162/5,20/20,Sunrisers Hyderabad,162/6,20/20,Mumbai Indians
+703,2019,Match 50,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,179/4,20/20,Delhi Capitals,99,16.2/20,Chennai Super Kings
+704,2019,Match 48,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,212/6,20/20,Punjab Kings,167/8,20/20,Sunrisers Hyderabad
+705,2019,Match 47,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,232/2,20/20,Mumbai Indians,198/7,20/20,Kolkata Knight Riders
+706,2019,Match 46,16:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,187/5,20/20,Royal Challengers Bangalore,171/7,20/20,Delhi Capitals
+707,2019,Match 45,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,161/3,19.1/20,Sunrisers Hyderabad,160/8,20/20,Rajasthan Royals
+708,2019,Match 44,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,109,17.4/20,Mumbai Indians,155/4,20/20,Mumbai Indians
+709,2019,Match 43,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,175/6,20/20,Rajasthan Royals,177/7,19.2/20,Rajasthan Royals
+710,2019,Match 42,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,202/4,20/20,Punjab Kings,185/7,20/20,Royal Challengers Bangalore
+711,2019,Match 41,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,176/4,19.5/20,Sunrisers Hyderabad,175/3,20/20,Chennai Super Kings
+712,2019,Match 40,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,191/6,20/20,Delhi Capitals,193/4,19.2/20,Delhi Capitals
+713,2019,Match 39,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,161/7,20/20,Chennai Super Kings,160/8,20/20,Royal Challengers Bangalore
+714,2019,Match 38,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,161/1,15/20,Kolkata Knight Riders,159/8,20/20,Sunrisers Hyderabad
+715,2019,Match 37,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,166/5,19.4/20,Punjab Kings,163/7,20/20,Delhi Capitals
+716,2019,Match 36,16:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,162/5,19.1/20,Mumbai Indians,161/5,20/20,Rajasthan Royals
+717,2019,Match 35,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,203/5,20/20,Royal Challengers Bangalore,213/4,20/20,Royal Challengers Bangalore
+718,2019,Match 34,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,128/9,20/20,Mumbai Indians,168/5,20/20,Mumbai Indians
+719,2019,Match 33,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,137/4,16.5/20,Chennai Super Kings,132/5,20/20,Sunrisers Hyderabad
+720,2019,Match 32,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,182/6,20/20,Rajasthan Royals,170/7,20/20,Punjab Kings
+721,2019,Match 31,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,172/5,19/20,Royal Challengers Bangalore,171/7,20/20,Mumbai Indians
+722,2019,Match 30,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,116,18.5/20,Delhi Capitals,155/7,20/20,Delhi Capitals
+723,2019,Match 29,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,161/8,20/20,Chennai Super Kings,162/5,19.4/20,Chennai Super Kings
+724,2019,Match 28,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,173/4,20/20,Royal Challengers Bangalore,174/2,19.2/20,Royal Challengers Bangalore
+725,2019,Match 27,16:00,"Wankhede Stadium, Mumbai",Mumbai Indians,187/5,20/20,Rajasthan Royals,188/6,19.3/20,Rajasthan Royals
+726,2019,Match 26,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,178/7,20/20,Delhi Capitals,180/3,18.5/20,Delhi Capitals
+727,2019,Match 25,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,151/7,20/20,Chennai Super Kings,155/6,20/20,Chennai Super Kings
+728,2019,Match 24,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,198/7,20/20,Punjab Kings,197/4,20/20,Mumbai Indians
+729,2019,Match 23,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,111/3,17.2/20,Kolkata Knight Riders,108/9,20/20,Chennai Super Kings
+730,2019,Match 22,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,151/4,19.5/20,Sunrisers Hyderabad,150/4,20/20,Punjab Kings
+731,2019,Match 21,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,139/3,20/20,Kolkata Knight Riders,140/2,13.5/20,Kolkata Knight Riders
+732,2019,Match 20,16:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,149/8,20/20,Delhi Capitals,152/6,18.5/20,Delhi Capitals
+733,2019,Match 19,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,96,17.4/20,Mumbai Indians,136/7,20/20,Mumbai Indians
+734,2019,Match 18,16:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,160/3,20/20,Punjab Kings,138/5,20/20,Chennai Super Kings
+735,2019,Match 17,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,205/3,20/20,Kolkata Knight Riders,206/5,19.1/20,Kolkata Knight Riders
+736,2019,Match 16,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,129/8,20/20,Sunrisers Hyderabad,131/5,18.3/20,Sunrisers Hyderabad
+737,2019,Match 15,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,170/5,20/20,Chennai Super Kings,133/8,20/20,Mumbai Indians
+738,2019,Match 14,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,164/3,19.5/20,Royal Challengers Bangalore,158/4,20/20,Rajasthan Royals
+739,2019,Match 13,20:00,"IS Bindra Stadium, Mohali",Punjab Kings,166/9,20/20,Delhi Capitals,152,19.2/20,Punjab Kings
+740,2019,Match 12,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,175/5,20/20,Rajasthan Royals,167/8,20/20,Chennai Super Kings
+741,2019,Match 11,16:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,231/2,20/20,Royal Challengers Bangalore,113,19.5/20,Sunrisers Hyderabad
+742,2019,Match 10,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,185/6,20/20,Kolkata Knight Riders,185/8,20/20,Delhi Capitals
+743,2019,Match 9,16:00,"IS Bindra Stadium, Mohali",Punjab Kings,177/2,18.4/20,Mumbai Indians,176/7,20/20,Punjab Kings
+744,2019,Match 8,20:00,"Rajiv Gandhi Intl. Cricket Stadium, Hyderabad",Sunrisers Hyderabad,201/5,19/20,Rajasthan Royals,198/2,20/20,Sunrisers Hyderabad
+745,2019,Match 7,20:00,"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,181/5,20/20,Mumbai Indians,187/8,20/20,Mumbai Indians
+746,2019,Match 6,20:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,218/4,20/20,Punjab Kings,190/4,20/20,Kolkata Knight Riders
+747,2019,Match 5,20:00,"Arun Jaitley Stadium, Delhi",Delhi Capitals,147/6,20/20,Chennai Super Kings,150/4,19.4/20,Chennai Super Kings
+748,2019,Match 4,20:00,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,170/9,20/20,Punjab Kings,184/4,20/20,Punjab Kings
+749,2019,Match 3,20:00,"Wankhede Stadium, Mumbai",Mumbai Indians,176,19.2/20,Delhi Capitals,213/6,20/20,Delhi Capitals
+750,2019,Match 2,16:00,"Eden Gardens, Kolkata",Kolkata Knight Riders,183/4,19.4/20,Sunrisers Hyderabad,181/3,20/20,Kolkata Knight Riders
+751,2019,Match 1,20:00,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,71/3,17.4/20,Royal Challengers Bangalore,70,17.1/20,Chennai Super Kings
+752,2020,Final,19:30,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,157/5,18.4/20,Delhi Capitals,156/7,20/20,Mumbai Indians
+753,2020,Qualifier 2,19:30,"Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,189/3,20/20,Sunrisers Hyderabad,172/8,20/20,Delhi Capitals
+754,2020,Eliminator,19:30,"Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,132/4,19.4/20,Royal Challengers Bangalore,131/7,20/20,Sunrisers Hyderabad
+755,2020,Qualifier 1,19:30,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,200/5,20/20,Delhi Capitals,143/8,20/20,Mumbai Indians
+756,2020,Match 56,19:30,"Sharjah Cricket Stadium, Sharjah",Sunrisers Hyderabad,151/0,17.1/20,Mumbai Indians,149/8,20/20,Sunrisers Hyderabad
+757,2020,Match 55,19:30,"Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,154/4,19/20,Royal Challengers Bangalore,152/7,20/20,Delhi Capitals
+758,2020,Match 54,19:30,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,191/7,20/20,Rajasthan Royals,131/9,20/20,Kolkata Knight Riders
+759,2020,Match 53,15:30,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,154/1,18.5/20,Punjab Kings,153/6,20/20,Chennai Super Kings
+760,2020,Match 52,19:30,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,120/7,20/20,Sunrisers Hyderabad,121/5,14.1/20,Sunrisers Hyderabad
+761,2020,Match 51,15:30,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,110/9,20/20,Mumbai Indians,111/1,14.2/20,Mumbai Indians
+762,2020,Match 50,19:30,"Zayed Cricket Stadium, Abu Dhabi",Punjab Kings,185/4,20/20,Rajasthan Royals,186/3,17.3/20,Rajasthan Royals
+763,2020,Match 49,19:30,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,178/4,20/20,Kolkata Knight Riders,172/5,20/20,Chennai Super Kings
+764,2020,Match 48,19:30,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,166/5,19.1/20,Royal Challengers Bangalore,164/6,20/20,Mumbai Indians
+765,2020,Match 47,19:30,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,219/2,20/20,Delhi Capitals,131,19/20,Sunrisers Hyderabad
+766,2020,Match 46,19:30,"Sharjah Cricket Stadium, Sharjah",Kolkata Knight Riders,149/9,20/20,Punjab Kings,150/2,18.5/20,Punjab Kings
+767,2020,Match 45,19:30,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,196/2,18.2/20,Mumbai Indians,195/5,20/20,Rajasthan Royals
+768,2020,Match 44,15:30,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,145/6,20/20,Chennai Super Kings,150/2,18.4/20,Chennai Super Kings
+769,2020,Match 43,19:30,"Dubai International Cricket Stadium, Dubai",Punjab Kings,126/7,20/20,Sunrisers Hyderabad,114,19.5/20,Punjab Kings
+770,2020,Match 42,15:30,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,194/6,20/20,Delhi Capitals,135/9,20/20,Kolkata Knight Riders
+771,2020,Match 41,19:30,"Sharjah Cricket Stadium, Sharjah",Chennai Super Kings,114/9,20/20,Mumbai Indians,116/0,12.2/20,Mumbai Indians
+772,2020,Match 40,19:30,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,154/6,20/20,Sunrisers Hyderabad,156/2,18.1/20,Sunrisers Hyderabad
+773,2020,Match 39,19:30,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,84/8,20/20,Royal Challengers Bangalore,85/2,13.3/20,Royal Challengers Bangalore
+774,2020,Match 38,19:30,"Dubai International Cricket Stadium, Dubai",Punjab Kings,167/5,19/20,Delhi Capitals,164/5,20/20,Punjab Kings
+775,2020,Match 37,19:30,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,125/5,20/20,Rajasthan Royals,126/3,17.3/20,Rajasthan Royals
+776,2020,Match 36,19:30,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,176/6,20/20,Punjab Kings,176/6,20/20,Kings XI Punjab
+777,2020,Match 35,15:30,"Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,163/6,20/20,Kolkata Knight Riders,163/5,20/20,Kolkata Knight Riders
+778,2020,Match 34,19:30,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,185/5,19.5/20,Chennai Super Kings,179/4,20/20,Delhi Capitals
+779,2020,Match 33,15:30,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,177/6,20/20,Royal Challengers Bangalore,179/3,19.4/20,Royal Challengers Bangalore
+780,2020,Match 32,19:30,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,149/2,16.5/20,Kolkata Knight Riders,148/5,20/20,Mumbai Indians
+781,2020,Match 31,19:30,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,171/6,20/20,Punjab Kings,177/2,20/20,Punjab Kings
+782,2020,Match 30,19:30,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,161/7,20/20,Rajasthan Royals,148/8,20/20,Delhi Capitals
+783,2020,Match 29,19:30,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,147/8,20/20,Chennai Super Kings,167/6,20/20,Chennai Super Kings
+784,2020,Match 28,19:30,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,194/2,20/20,Kolkata Knight Riders,112/9,20/20,Royal Challengers Bangalore
+785,2020,Match 27,19:30,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,166/5,19.4/20,Delhi Capitals,162/4,20/20,Mumbai Indians
+786,2020,Match 26,15:30,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,158/4,20/20,Rajasthan Royals,163/5,19.5/20,Rajasthan Royals
+787,2020,Match 25,19:30,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,132/8,20/20,Royal Challengers Bangalore,169/4,20/20,Royal Challengers Bangalore
+788,2020,Match 24,15:30,"Zayed Cricket Stadium, Abu Dhabi",Punjab Kings,162/5,20/20,Kolkata Knight Riders,164/6,20/20,Kolkata Knight Riders
+789,2020,Match 23,19:30,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,138,19.4/20,Delhi Capitals,184/8,20/20,Delhi Capitals
+790,2020,Match 22,19:30,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,201/6,20/20,Punjab Kings,132,16.5/20,Sunrisers Hyderabad
+791,2020,Match 21,19:30,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,167,20/20,Chennai Super Kings,157/5,20/20,Kolkata Knight Riders
+792,2020,Match 20,19:30,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,193/4,20/20,Rajasthan Royals,136,18.1/20,Mumbai Indians
+793,2020,Match 19,19:30,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,137/9,20/20,Delhi Capitals,196/4,20/20,Delhi Capitals
+794,2020,Match 18,19:30,"Dubai International Cricket Stadium, Dubai",Punjab Kings,178/4,20/20,Chennai Super Kings,181/0,17.4/20,Chennai Super Kings
+795,2020,Match 17,15:30,"Sharjah Cricket Stadium, Sharjah",Mumbai Indians,208/5,20/20,Sunrisers Hyderabad,174/7,20/20,Mumbai Indians
+796,2020,Match 16,19:30,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,228/4,20/20,Kolkata Knight Riders,210/8,20/20,Delhi Capitals
+797,2020,Match 15,15:30,"Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,158/2,19.1/20,Rajasthan Royals,154/6,20/20,Royal Challengers Bangalore
+798,2020,Match 14,19:30,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,157/5,20/20,Sunrisers Hyderabad,164/5,20/20,Sunrisers Hyderabad
+799,2020,Match 13,19:30,"Zayed Cricket Stadium, Abu Dhabi",Punjab Kings,143/8,20/20,Mumbai Indians,191/4,20/20,Mumbai Indians
+800,2020,Match 12,19:30,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,137/9,20/20,Kolkata Knight Riders,174/6,20/20,Kolkata Knight Riders
+801,2020,Match 11,19:30,"Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,147/7,20/20,Sunrisers Hyderabad,162/4,20/20,Sunrisers Hyderabad
+802,2020,Match 10,19:30,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,201/3,20/20,Mumbai Indians,201/5,20/20,Royal Challengers Bangalore
+803,2020,Match 9,19:30,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,226/6,19.3/20,Punjab Kings,223/2,20/20,Rajasthan Royals
+804,2020,Match 8,19:30,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,145/3,18/20,Sunrisers Hyderabad,142/4,20/20,Kolkata Knight Riders
+805,2020,Match 7,19:30,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,131/7,20/20,Delhi Capitals,175/3,20/20,Delhi Capitals
+806,2020,Match 6,19:30,"Dubai International Cricket Stadium, Dubai",Punjab Kings,206/3,20/20,Royal Challengers Bangalore,109,17/20,Punjab Kings
+807,2020,Match 5,19:30,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,146/9,20/20,Mumbai Indians,195/5,20/20,Mumbai Indians
+808,2020,Match 4,19:30,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,216/7,20/20,Chennai Super Kings,200/6,20/20,Rajasthan Royals
+809,2020,Match 3,19:30,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,153,19.4/20,Royal Challengers Bangalore,163/5,20/20,Royal Challengers Bangalore
+810,2020,Match 2,19:30,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,157/8,20/20,Punjab Kings,157/8,20/20,Delhi Capitals
+811,2020,Match 1,19:30,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,162/9,20/20,Chennai Super Kings,166/5,19.2/20,Chennai Super Kings
